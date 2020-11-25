@@ -14,8 +14,8 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 128,
-  "height": 128,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9c39de9a-c0b3-4839-a1a3-66568f0e10d2","path":"sprites/spr_herby/spr_herby.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9c39de9a-c0b3-4839-a1a3-66568f0e10d2","path":"sprites/spr_herby/spr_herby.yy",},"LayerId":{"name":"6f8e8a32-f50f-49a3-8a6f-a61ad2826032","path":"sprites/spr_herby/spr_herby.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_herby","path":"sprites/spr_herby/spr_herby.yy",},"resourceVersion":"1.0","name":"9c39de9a-c0b3-4839-a1a3-66568f0e10d2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3f9f2ff6-0975-40db-9f03-9cd2bbad48b2","path":"sprites/spr_tupperware/spr_tupperware.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3f9f2ff6-0975-40db-9f03-9cd2bbad48b2","path":"sprites/spr_tupperware/spr_tupperware.yy",},"LayerId":{"name":"8c72151b-16e2-42dd-ab9f-cfea4c6a7f52","path":"sprites/spr_tupperware/spr_tupperware.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_tupperware","path":"sprites/spr_tupperware/spr_tupperware.yy",},"resourceVersion":"1.0","name":"3f9f2ff6-0975-40db-9f03-9cd2bbad48b2","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_herby","path":"sprites/spr_herby/spr_herby.yy",},
+    "spriteId": {"name":"spr_tupperware","path":"sprites/spr_tupperware/spr_tupperware.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"31d00179-8b5f-4a91-a38c-21d8914919ef","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9c39de9a-c0b3-4839-a1a3-66568f0e10d2","path":"sprites/spr_herby/spr_herby.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5a87a491-b846-422a-9b87-e05067762ff9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3f9f2ff6-0975-40db-9f03-9cd2bbad48b2","path":"sprites/spr_tupperware/spr_tupperware.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_herby","path":"sprites/spr_herby/spr_herby.yy",},
+    "parent": {"name":"spr_tupperware","path":"sprites/spr_tupperware/spr_tupperware.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_herby",
+    "name": "spr_tupperware",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6f8e8a32-f50f-49a3-8a6f-a61ad2826032","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8c72151b-16e2-42dd-ab9f-cfea4c6a7f52","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_herby",
+  "name": "spr_tupperware",
   "tags": [],
   "resourceType": "GMSprite",
 }

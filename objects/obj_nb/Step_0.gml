@@ -7,7 +7,6 @@ if keyboard_check_pressed(ord("N")){
 
 
 if mouse_check_button_pressed(mb_left){ // same as above, just using the mouse and collision
-
 	if position_meeting(mouse_x, mouse_y, obj_nb){ 
 		_open = not _open
 	}

@@ -4,7 +4,6 @@
     {"id":{"name":"spr_nb_quick","path":"sprites/spr_nb_quick/spr_nb_quick.yy",},"order":7,},
     {"id":{"name":"spr_garbagecan","path":"sprites/spr_garbagecan/spr_garbagecan.yy",},"order":5,},
     {"id":{"name":"obj_scenetest","path":"objects/obj_scenetest/obj_scenetest.yy",},"order":1,},
-    {"id":{"name":"spr_tupperware","path":"sprites/spr_tupperware/spr_tupperware.yy",},"order":8,},
     {"id":{"name":"spr_omar","path":"sprites/spr_omar/spr_omar.yy",},"order":1,},
     {"id":{"name":"font0","path":"fonts/font0/font0.yy",},"order":0,},
     {"id":{"name":"spr_iggy","path":"sprites/spr_iggy/spr_iggy.yy",},"order":3,},

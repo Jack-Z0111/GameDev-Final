@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":14,},
     {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},"order":6,},
     {"id":{"name":"spr_nb_quick","path":"sprites/spr_nb_quick/spr_nb_quick.yy",},"order":7,},
     {"id":{"name":"spr_garbagecan","path":"sprites/spr_garbagecan/spr_garbagecan.yy",},"order":5,},

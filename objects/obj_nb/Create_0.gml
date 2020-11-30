@@ -3,7 +3,7 @@
 
 //array of page names
 
-pages[0] = "Case Overview/Index"
+pages[0] = instance_create_layer(x,y, "Instances",noone)
 pages[1] = "Char1"
 pages[2] = "Char2"
 pages[3] = "Char3"

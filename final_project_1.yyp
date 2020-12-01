@@ -18,7 +18,6 @@
     {"id":{"name":"spr_food_container","path":"sprites/spr_food_container/spr_food_container.yy",},"order":8,},
     {"id":{"name":"spr_nb_large","path":"sprites/spr_nb_large/spr_nb_large.yy",},"order":13,},
     {"id":{"name":"spr_carrie","path":"sprites/spr_carrie/spr_carrie.yy",},"order":2,},
-    {"id":{"name":"obj_clickables","path":"objects/obj_clickables/obj_clickables.yy",},"order":5,},
     {"id":{"name":"spr_omar","path":"sprites/spr_omar/spr_omar.yy",},"order":12,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":4,},

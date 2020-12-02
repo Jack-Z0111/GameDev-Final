@@ -18,7 +18,7 @@ msg = [
 ["Of that crime or this one?", "Detective", -1],
 ["Both.", "Carrie", -1],
 ["(Well I guess we'll see about that.)", "Detective", -1],
-["Thank god about Napster though.)", "Detective", -1],
+["(Thank god about Napster though.)", "Detective", -1],
 ["(Entire discography of Phil Collins, you're safe on my hard drive.)", "Detective", -1]
 
 

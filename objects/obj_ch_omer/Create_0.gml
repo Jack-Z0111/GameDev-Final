@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 msg = [
-["*knock knock knock*", "", -1],
+["*knock knock knock*", "Detective", -1],
 ["Hello?", "Detective", -1],
 ["I just received a call about a possible homicide.", "Detective", -1],
 ["Yes that was me.", "Omar", -1],

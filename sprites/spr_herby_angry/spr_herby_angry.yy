@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b87a837e-95ff-4abf-b85e-8e54fd0db05f","path":"sprites/spr_herby/spr_herby.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b87a837e-95ff-4abf-b85e-8e54fd0db05f","path":"sprites/spr_herby/spr_herby.yy",},"LayerId":{"name":"6f8e8a32-f50f-49a3-8a6f-a61ad2826032","path":"sprites/spr_herby/spr_herby.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_herby","path":"sprites/spr_herby/spr_herby.yy",},"resourceVersion":"1.0","name":"b87a837e-95ff-4abf-b85e-8e54fd0db05f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ab8b3b28-1181-4ba0-bbb6-7eecaae18ab5","path":"sprites/spr_herby_angry/spr_herby_angry.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ab8b3b28-1181-4ba0-bbb6-7eecaae18ab5","path":"sprites/spr_herby_angry/spr_herby_angry.yy",},"LayerId":{"name":"1ec0ae7a-73c3-423a-9cb3-90f1b8a808c4","path":"sprites/spr_herby_angry/spr_herby_angry.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_herby_angry","path":"sprites/spr_herby_angry/spr_herby_angry.yy",},"resourceVersion":"1.0","name":"ab8b3b28-1181-4ba0-bbb6-7eecaae18ab5","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_herby","path":"sprites/spr_herby/spr_herby.yy",},
+    "spriteId": {"name":"spr_herby_angry","path":"sprites/spr_herby_angry/spr_herby_angry.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bed10a2f-6511-4381-8deb-ee81b91ab720","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b87a837e-95ff-4abf-b85e-8e54fd0db05f","path":"sprites/spr_herby/spr_herby.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8416bbaf-8281-4e11-882a-6108ae5a4a8a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ab8b3b28-1181-4ba0-bbb6-7eecaae18ab5","path":"sprites/spr_herby_angry/spr_herby_angry.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_herby","path":"sprites/spr_herby/spr_herby.yy",},
+    "parent": {"name":"spr_herby_angry","path":"sprites/spr_herby_angry/spr_herby_angry.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_herby",
+    "name": "spr_herby_angry",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6f8e8a32-f50f-49a3-8a6f-a61ad2826032","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1ec0ae7a-73c3-423a-9cb3-90f1b8a808c4","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_herby",
+  "name": "spr_herby_angry",
   "tags": [],
   "resourceType": "GMSprite",
 }

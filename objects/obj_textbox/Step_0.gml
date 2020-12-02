@@ -22,6 +22,7 @@ else if (keyboard_check_pressed(vk_space)) {
 	//close textbox
 	else {
 		instance_destroy();
+		instance_destroy(global.choice1);
 		//room_goto_next();
 	}
 	

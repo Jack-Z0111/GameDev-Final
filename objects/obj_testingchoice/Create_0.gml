@@ -4,3 +4,5 @@ msg = [
 ["I chose this choice", "Detective", -1], 
 ["hurray", "Detective", -1]
 ]
+
+global.choice1 = obj_testingchoice;

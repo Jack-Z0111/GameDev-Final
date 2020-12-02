@@ -9,6 +9,9 @@ width_of_clue = sprite_get_width(spr_nb_large) - 60 //based on nb width
 
 
 if _visible{
+	draw_set_font(nbFont)
+	draw_text_ext_colour(startX, startY, name, 20, width_of_clue, 0, 0, 0, 0, 1)
+	startY += 25
 	for(i = 0; i < ds_list_size(clues); i++){
 		text = ds_list_find_value(clues, i)
 		draw_text_ext_colour(startX, startY, text, 20, width_of_clue, 0, 0, 0, 0, 1)

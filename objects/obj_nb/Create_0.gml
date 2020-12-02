@@ -3,13 +3,19 @@
 
 //array of page names
 
-pages[0] = instance_create_layer(x,y, "Instances",noone)
-pages[1] = "Char1"
-pages[2] = "Char2"
-pages[3] = "Char3"
-pages[4] = "Victim"
-pages[5] = "Whodunit?"
+global.pages = ds_list_create()
+
+carrie = instance_create_layer(x,y, "Asset",obj_page)
+carrie.name = "Carrie"
+herbie = instance_create_layer(x,y, "Asset",obj_page)
+herbie.name = "Herbie"
+omar = instance_create_layer(x,y, "Asset",obj_page)
+omar.name = "Omar"
+
+ds_list_add(global.pages, carrie)
+ds_list_add(global.pages, herbie)
+ds_list_add(global.pages, omar)
 
 
-pageNum = 6
-currPage = 0
+curr_page = 0
+size = ds_list_size(global.pages)

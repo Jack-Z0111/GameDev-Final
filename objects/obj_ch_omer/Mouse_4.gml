@@ -11,4 +11,5 @@ if (!instance_exists(obj_textbox)) {
 		
 		ds_list_add(_list, _arr);
 	}
+	addClue("You talked to Omar! They're Iggy's best friend and roommate.", "Omar")
 }

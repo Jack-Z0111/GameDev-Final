@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 30,
-  "bbox_right": 95,
-  "bbox_top": 10,
-  "bbox_bottom": 124,
+  "bbox_left": 12,
+  "bbox_right": 52,
+  "bbox_top": 8,
+  "bbox_bottom": 45,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 128,
-  "height": 128,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b87a837e-95ff-4abf-b85e-8e54fd0db05f","path":"sprites/spr_herby/spr_herby.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b87a837e-95ff-4abf-b85e-8e54fd0db05f","path":"sprites/spr_herby/spr_herby.yy",},"LayerId":{"name":"6f8e8a32-f50f-49a3-8a6f-a61ad2826032","path":"sprites/spr_herby/spr_herby.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_herby","path":"sprites/spr_herby/spr_herby.yy",},"resourceVersion":"1.0","name":"b87a837e-95ff-4abf-b85e-8e54fd0db05f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"eeef0b9b-3549-44c2-b90a-3f07e0808631","path":"sprites/spr_rope/spr_rope.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"eeef0b9b-3549-44c2-b90a-3f07e0808631","path":"sprites/spr_rope/spr_rope.yy",},"LayerId":{"name":"96835b84-4e27-4a0d-bf88-d50fe93e237c","path":"sprites/spr_rope/spr_rope.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_rope","path":"sprites/spr_rope/spr_rope.yy",},"resourceVersion":"1.0","name":"eeef0b9b-3549-44c2-b90a-3f07e0808631","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_herby","path":"sprites/spr_herby/spr_herby.yy",},
+    "spriteId": {"name":"spr_rope","path":"sprites/spr_rope/spr_rope.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bed10a2f-6511-4381-8deb-ee81b91ab720","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b87a837e-95ff-4abf-b85e-8e54fd0db05f","path":"sprites/spr_herby/spr_herby.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"acf97684-8daa-421d-aea5-1fec3c1037fb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eeef0b9b-3549-44c2-b90a-3f07e0808631","path":"sprites/spr_rope/spr_rope.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_herby","path":"sprites/spr_herby/spr_herby.yy",},
+    "parent": {"name":"spr_rope","path":"sprites/spr_rope/spr_rope.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_herby",
+    "name": "spr_rope",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6f8e8a32-f50f-49a3-8a6f-a61ad2826032","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"96835b84-4e27-4a0d-bf88-d50fe93e237c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_herby",
+  "name": "spr_rope",
   "tags": [],
   "resourceType": "GMSprite",
 }

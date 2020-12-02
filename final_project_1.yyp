@@ -11,6 +11,7 @@
     {"id":{"name":"obj_scenetest","path":"objects/obj_scenetest/obj_scenetest.yy",},"order":1,},
     {"id":{"name":"spr_omar_talking","path":"sprites/spr_omar_talking/spr_omar_talking.yy",},"order":1,},
     {"id":{"name":"obj_ast_garbagecan","path":"objects/obj_ast_garbagecan/obj_ast_garbagecan.yy",},"order":10,},
+    {"id":{"name":"spr_living_room_background","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"order":16,},
     {"id":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},"order":1,},
     {"id":{"name":"font0","path":"fonts/font0/font0.yy",},"order":0,},
     {"id":{"name":"spr_carrie_talking","path":"sprites/spr_carrie_talking/spr_carrie_talking.yy",},"order":10,},
@@ -26,6 +27,7 @@
     {"id":{"name":"spr_carrie","path":"sprites/spr_carrie/spr_carrie.yy",},"order":2,},
     {"id":{"name":"spr_omar","path":"sprites/spr_omar/spr_omar.yy",},"order":12,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
+    {"id":{"name":"spr_suspect_room_background","path":"sprites/spr_suspect_room_background/spr_suspect_room_background.yy",},"order":15,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":4,},
     {"id":{"name":"obj_ch_herby","path":"objects/obj_ch_herby/obj_ch_herby.yy",},"order":6,},
     {"id":{"name":"obj_ast_container","path":"objects/obj_ast_container/obj_ast_container.yy",},"order":9,},
@@ -52,8 +54,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room0","path":"rooms/Room0/Room0.yy",},},
     {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
+    {"roomId":{"name":"Room0","path":"rooms/Room0/Room0.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 19,
-  "bbox_right": 49,
-  "bbox_top": 16,
-  "bbox_bottom": 46,
+  "bbox_left": 0,
+  "bbox_right": 1365,
+  "bbox_top": 0,
+  "bbox_bottom": 767,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 1366,
+  "height": 768,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a77b223f-f18d-4624-aa85-842ba5af729b","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a77b223f-f18d-4624-aa85-842ba5af729b","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"LayerId":{"name":"45d4dab2-e3bd-495d-8b72-80e74eb17849","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_living_room_background","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"resourceVersion":"1.0","name":"a77b223f-f18d-4624-aa85-842ba5af729b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1884ae78-ddbc-4883-b659-fc6bd3be8d70","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1884ae78-ddbc-4883-b659-fc6bd3be8d70","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"LayerId":{"name":"45d4dab2-e3bd-495d-8b72-80e74eb17849","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_living_room_background","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"resourceVersion":"1.0","name":"1884ae78-ddbc-4883-b659-fc6bd3be8d70","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_living_room_background","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ee0f8252-c685-4a06-a7a1-157e40269c40","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a77b223f-f18d-4624-aa85-842ba5af729b","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f415bb96-0d2f-4c0d-b947-e3c95bc5af4a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1884ae78-ddbc-4883-b659-fc6bd3be8d70","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,

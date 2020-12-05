@@ -5,7 +5,6 @@
     {"id":{"name":"obj_dialogue_choice_5","path":"objects/obj_dialogue_choice_5/obj_dialogue_choice_5.yy",},"order":16,},
     {"id":{"name":"spr_dialogue_choice_15","path":"sprites/spr_dialogue_choice_15/spr_dialogue_choice_15.yy",},"order":33,},
     {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":14,},
-    {"id":{"name":"spr_dialogue_choice_22","path":"sprites/spr_dialogue_choice_22/spr_dialogue_choice_22.yy",},"order":40,},
     {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},"order":6,},
     {"id":{"name":"spr_dialogue_choice_20","path":"sprites/spr_dialogue_choice_20/spr_dialogue_choice_20.yy",},"order":38,},
     {"id":{"name":"nbFont","path":"fonts/nbFont/nbFont.yy",},"order":1,},
@@ -100,7 +99,9 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
+  ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets.yy","order":2,"resourceVersion":"1.0","name":"Tile Sets","tags":[],"resourceType":"GMFolder",},
@@ -121,13 +122,13 @@
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.0.529",
+    "IDEVersion": "2.3.1.536",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.4",
   "name": "final_project_1",
   "tags": [],
   "resourceType": "GMProject",

@@ -90,7 +90,7 @@
     {"id":{"name":"spr_dialogue_choice_29","path":"sprites/spr_dialogue_choice_29/spr_dialogue_choice_29.yy",},"order":47,},
     {"id":{"name":"spr_dialogue_choice_9","path":"sprites/spr_dialogue_choice_9/spr_dialogue_choice_9.yy",},"order":27,},
     {"id":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},"order":0,},
-    {"id":{"name":"obj_ch_carrie","path":"objects/obj_ch_carrie/obj_ch_carrie.yy",},"order":5,},
+    {"id":{"name":"obj_ch_carrie_s1","path":"objects/obj_ch_carrie_s1/obj_ch_carrie_s1.yy",},"order":5,},
     {"id":{"name":"spr_dialogue_choice_8","path":"sprites/spr_dialogue_choice_8/spr_dialogue_choice_8.yy",},"order":26,},
     {"id":{"name":"spr_note_clue","path":"sprites/spr_note_clue/spr_note_clue.yy",},"order":9,},
     {"id":{"name":"obj_dialogue_choice_13","path":"objects/obj_dialogue_choice_13/obj_dialogue_choice_13.yy",},"order":24,},

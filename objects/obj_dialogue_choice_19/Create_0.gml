@@ -1,3 +1,7 @@
+//this belongs to the option tree:
+//iggys allergies
+//iggys injury
+//iggys attitude
 msg = [
 ["Iggy was incredibly allergic to nuts!", "Detective", -1],
 ["I believe Iggy suffocated as a symptom of nut-induced anaphylactic shock.", "Detective", -1],

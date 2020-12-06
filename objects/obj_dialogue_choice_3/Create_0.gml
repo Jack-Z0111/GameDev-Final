@@ -1,3 +1,4 @@
+//this is for when you ask omar about iggy's body
 msg = [
 ["So about the cause of death...", "Detective", -1],
 ["It seems like Iggy shows definite signs of asphyxiation.", "Detective", -1],

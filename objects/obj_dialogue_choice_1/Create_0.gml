@@ -1,3 +1,4 @@
+//this is for when you ask Carrie about the rope
 msg = [
 ["What do you think about this?.", "Detective", -1],
 ["You found this in the living room?", "Carrie", -1],

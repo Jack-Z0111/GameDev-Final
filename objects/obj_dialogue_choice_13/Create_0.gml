@@ -1,3 +1,7 @@
+//this belongs to the option tree:
+//theres something on it
+//theres nothing on it
+//he has a cool tattoo
 msg = [
 ["The victim's neck has nothing on it!", "Detective", -1],
 ["What do you mean there's nothing on it?", "Herby", -1],

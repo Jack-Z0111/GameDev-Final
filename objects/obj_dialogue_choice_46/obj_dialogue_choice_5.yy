@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_dialogue_choice_13",
-    "path": "sprites/spr_dialogue_choice_13/spr_dialogue_choice_13.yy",
+    "name": "spr_dialogue_choice_5",
+    "path": "sprites/spr_dialogue_choice_5/spr_dialogue_choice_5.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_dialogue_choice_13","path":"objects/obj_dialogue_choice_13/obj_dialogue_choice_13.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_dialogue_choice_13","path":"objects/obj_dialogue_choice_13/obj_dialogue_choice_13.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_dialogue_choice_5","path":"objects/obj_dialogue_choice_5/obj_dialogue_choice_5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_dialogue_choice_5","path":"objects/obj_dialogue_choice_5/obj_dialogue_choice_5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_dialogue_choice_13",
+  "name": "obj_dialogue_choice_5",
   "tags": [],
   "resourceType": "GMObject",
 }

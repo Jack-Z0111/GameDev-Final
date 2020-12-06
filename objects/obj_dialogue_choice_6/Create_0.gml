@@ -1,3 +1,4 @@
+//this is for when you ask herby about the note
 msg = [
 ["Do you know anything about this?", "Detective", -1],
 ["What's that, some kind of note?", "Herby", -1],

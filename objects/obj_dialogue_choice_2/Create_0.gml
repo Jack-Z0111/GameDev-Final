@@ -1,3 +1,4 @@
+//this is for when you ask omar about carrie
 msg = [
 ["What can you tell me about Iggy's client?", "Detective", -1],
 ["Oh you mean the thief?", "Omar", -1],

@@ -1,3 +1,4 @@
+//this is for when you ask herby about the food
 msg = [
 ["Do you like to cook Herby?", "Detective", -1],
 ["Oh I dabble.", "Herby", -1],

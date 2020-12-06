@@ -1,3 +1,7 @@
+//this belongs to the option tree:
+//the contents
+//the lid
+//the color
 msg = [
 ["The killer used the rope to misdirect us!", "Detective", -1],
 ["The killer wanted to obscure the actual cause of death to confuse us.", "Detective", -1],

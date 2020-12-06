@@ -1,3 +1,4 @@
+//this is for when you ask omar about the tupperware
 msg = [
 ["Do you recognize this?", "Detective", -1],
 ["It's a tupperware container.", "Omar", -1],

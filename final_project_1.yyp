@@ -57,6 +57,7 @@
     {"id":{"name":"spr_omar_talking","path":"sprites/spr_omar_talking/spr_omar_talking.yy",},"order":1,},
     {"id":{"name":"obj_dialogue_choice_30","path":"objects/obj_dialogue_choice_30/obj_dialogue_choice_30.yy",},"order":41,},
     {"id":{"name":"spr_dialogue_choice_31","path":"sprites/spr_dialogue_choice_31/spr_dialogue_choice_31.yy",},"order":49,},
+    {"id":{"name":"obj_s1","path":"objects/obj_s1/obj_s1.yy",},"order":58,},
     {"id":{"name":"obj_dialogue_choice_43","path":"objects/obj_dialogue_choice_43/obj_dialogue_choice_43.yy",},"order":54,},
     {"id":{"name":"spr_dialogue_choice_35","path":"sprites/spr_dialogue_choice_35/spr_dialogue_choice_35.yy",},"order":53,},
     {"id":{"name":"obj_dialogue_choice_46","path":"objects/obj_dialogue_choice_46/obj_dialogue_choice_46.yy",},"order":57,},

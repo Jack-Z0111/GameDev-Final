@@ -9,6 +9,7 @@
     {"id":{"name":"spr_dialogue_choice_20","path":"sprites/spr_dialogue_choice_20/spr_dialogue_choice_20.yy",},"order":38,},
     {"id":{"name":"nbFont","path":"fonts/nbFont/nbFont.yy",},"order":1,},
     {"id":{"name":"spr_nb_quick","path":"sprites/spr_nb_quick/spr_nb_quick.yy",},"order":7,},
+    {"id":{"name":"spr_dialogue_choice_23","path":"sprites/spr_dialogue_choice_23/spr_dialogue_choice_23.yy",},"order":41,},
     {"id":{"name":"spr_garbagecan","path":"sprites/spr_garbagecan/spr_garbagecan.yy",},"order":5,},
     {"id":{"name":"spr_dialogue_choice_14","path":"sprites/spr_dialogue_choice_14/spr_dialogue_choice_14.yy",},"order":32,},
     {"id":{"name":"obj_page","path":"objects/obj_page/obj_page.yy",},"order":3,},

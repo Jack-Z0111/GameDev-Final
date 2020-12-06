@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+//this is for when you click on carrie in the first scene
 msg = [
 ["So you're here about Iggy, huh?", "Carrie", -1],
 ["Can I ask who you are?", "Detective", -1],

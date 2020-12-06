@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+//this is the first dialogue that plays when the game starts
 msg = [
 ["*knock knock knock*", "Detective", -1],
 ["Hello?", "Detective", -1],

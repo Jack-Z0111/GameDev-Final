@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_dialogue_choice_43","path":"sprites/spr_dialogue_choice_43/spr_dialogue_choice_43.yy",},"order":61,},
     {"id":{"name":"obj_dialogue_choice_15","path":"objects/obj_dialogue_choice_15/obj_dialogue_choice_15.yy",},"order":26,},
+    {"id":{"name":"obj_s5","path":"objects/obj_s5/obj_s5.yy",},"order":67,},
     {"id":{"name":"obj_dialogue_choice_35","path":"objects/obj_dialogue_choice_35/obj_dialogue_choice_35.yy",},"order":46,},
     {"id":{"name":"obj_dialogue_choice_37","path":"objects/obj_dialogue_choice_37/obj_dialogue_choice_37.yy",},"order":48,},
     {"id":{"name":"spr_herby_angry","path":"sprites/spr_herby_angry/spr_herby_angry.yy",},"order":17,},

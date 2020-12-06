@@ -114,7 +114,7 @@
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":4,},
     {"id":{"name":"spr_dialogue_choice_34","path":"sprites/spr_dialogue_choice_34/spr_dialogue_choice_34.yy",},"order":52,},
-    {"id":{"name":"obj_ch_herby","path":"objects/obj_ch_herby/obj_ch_herby.yy",},"order":6,},
+    {"id":{"name":"obj_ch_herby_s3","path":"objects/obj_ch_herby_s3/obj_ch_herby_s3.yy",},"order":6,},
     {"id":{"name":"spr_dialogue_choice_39","path":"sprites/spr_dialogue_choice_39/spr_dialogue_choice_39.yy",},"order":57,},
     {"id":{"name":"obj_dialogue_choice_12","path":"objects/obj_dialogue_choice_12/obj_dialogue_choice_12.yy",},"order":23,},
     {"id":{"name":"obj_dialogue_choice_39","path":"objects/obj_dialogue_choice_39/obj_dialogue_choice_39.yy",},"order":50,},

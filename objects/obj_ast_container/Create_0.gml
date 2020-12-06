@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+//this is for when you click on the container at the crime scene
 msg = [
 ["It's a plastic tupperware container used for transporting food.", "Detective", -1], 
 ["Empty.", "Detective", -1],

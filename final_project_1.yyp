@@ -89,6 +89,7 @@
     {"id":{"name":"spr_dialogue_choice_16","path":"sprites/spr_dialogue_choice_16/spr_dialogue_choice_16.yy",},"order":34,},
     {"id":{"name":"spr_dialogue_choice_29","path":"sprites/spr_dialogue_choice_29/spr_dialogue_choice_29.yy",},"order":47,},
     {"id":{"name":"spr_dialogue_choice_9","path":"sprites/spr_dialogue_choice_9/spr_dialogue_choice_9.yy",},"order":27,},
+    {"id":{"name":"obj_s2","path":"objects/obj_s2/obj_s2.yy",},"order":59,},
     {"id":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},"order":0,},
     {"id":{"name":"obj_ch_carrie_s1","path":"objects/obj_ch_carrie_s1/obj_ch_carrie_s1.yy",},"order":5,},
     {"id":{"name":"spr_dialogue_choice_8","path":"sprites/spr_dialogue_choice_8/spr_dialogue_choice_8.yy",},"order":26,},

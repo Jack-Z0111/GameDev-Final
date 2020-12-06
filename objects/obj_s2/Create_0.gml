@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+//this is for when you first arrive at the crime scene in scene 2
 msg = [
 ["Oh boy.", "Detective", -1],
 ["Poor guy.", "Detective", -1],

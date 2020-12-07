@@ -186,10 +186,10 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"suspect_room","path":"rooms/suspect_room/suspect_room.yy",},},
+    {"roomId":{"name":"Room_ch_o","path":"rooms/Room_ch_o/Room_ch_o.yy",},},
     {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
     {"roomId":{"name":"Room_ch_c","path":"rooms/Room_ch_c/Room_ch_c.yy",},},
     {"roomId":{"name":"Room_ch_h","path":"rooms/Room_ch_h/Room_ch_h.yy",},},
-    {"roomId":{"name":"Room_ch_o","path":"rooms/Room_ch_o/Room_ch_o.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

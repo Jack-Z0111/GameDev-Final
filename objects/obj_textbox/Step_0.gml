@@ -22,16 +22,16 @@ if (messageChar <= string_length(_text)) {
 	messageChar += messageSpeed;
 	//if audioDetective
 	//audio_play_sound(snd_detective,1,false)
-    if obj_ch_herby_parent.audioHerby
-	audio_play_sound(snd_herby,1,false)
-	else if obj_ch_carrie_parent.audioCarrie
-	audio_play_sound(snd_carrie,1,false)
-	else if obj_ch_omar_parent.audioOmar
-	audio_play_sound(snd_omar,1,false)
+    //if obj_ch_herby_parent.audioHerby
+	//audio_play_sound(snd_herby,1,false)
+	//else if obj_ch_carrie_parent.audioCarrie
+	//audio_play_sound(snd_carrie,1,false)
+	//else if obj_ch_omar_parent.audioOmar
+	//audio_play_sound(snd_omar,1,false)
 	
 }
 //string is fully drawn
-else if (keyboard_check_pressed(vk_space)) {
+else if (mouse_check_button_pressed(mb_left)) {
 	
 	//go to next message
 	if (messageID < ds_list_size(messages) - 1) {
@@ -41,10 +41,10 @@ else if (keyboard_check_pressed(vk_space)) {
 	//close textbox
 	else {
 		instance_destroy();
-		instance_destroy(global.choice1);
-		obj_ch_herby_parent.audioHerby=false
-		obj_ch_carrie_parent.audioCarrie=false
-		obj_ch_omar_parent.audioOmar=false
+		//instance_destroy(global.choice1);
+		//obj_ch_herby_parent.audioHerby=false
+		//obj_ch_carrie_parent.audioCarrie=false
+		//obj_ch_omar_parent.audioOmar=false
 		//room_goto_next();
 	}
 	

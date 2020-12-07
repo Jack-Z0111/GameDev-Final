@@ -9,6 +9,12 @@ messageText = string_copy(_text, 1, messageChar); //start from begining of strin
 //is the string not fully drawn
 if (messageChar <= string_length(_text)) {
 	messageChar += messageSpeed;
+	if obj_ch_herby_parent.audioHerby
+	audio_play_sound(snd_herby,1,false)
+	else if obj_ch_carrie_parent.audioCarrie
+	audio_play_sound(snd_carrie,1,false)
+	else if obj_ch_omar_parent.audioOmar
+	audio_play_sound(snd_omar,1,false)
 	
 }
 //string is fully drawn
@@ -23,6 +29,9 @@ else if (keyboard_check_pressed(vk_space)) {
 	else {
 		instance_destroy();
 		instance_destroy(global.choice1);
+		obj_ch_herby_parent.audioHerby=false
+		obj_ch_carrie_parent.audioCarrie=false
+		obj_ch_omar_parent.audioOmar=false
 		//room_goto_next();
 	}
 	

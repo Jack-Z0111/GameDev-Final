@@ -9,4 +9,7 @@ if (!instance_exists(obj_textbox)) {
 		
 		ds_list_add(_list, _arr);
 	}
+	addClue("They were deadly allergic to nuts.", "Iggy")
+	addClue("Their tongue swells when having them.", "Iggy")
+	addClue("According to Omar, they were extra cautious to avoid having nuts.", "Iggy")
 }

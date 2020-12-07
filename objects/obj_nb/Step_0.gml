@@ -14,10 +14,12 @@ if mouse_check_button_pressed(mb_left){ // same as above, just using the mouse a
 }
 
 
-curr = ds_list_find_value(global.pages, curr_page)
-if _open{
+curr = ds_list_find_value(global.pages, curr_page) // find the curr page
+if _open{ //if the nb is open, show it
 	curr._visible = true
 	
+	
+	// can only change pages using the arrows when the nb is open
 	if keyboard_check_pressed(vk_left){
 		if curr_page != 0{
 			curr = ds_list_find_value(global.pages, curr_page)
@@ -34,6 +36,6 @@ if _open{
 		}
 	}
 
-} else {
+} else { //if not, close it
 	curr._visible = false
 }

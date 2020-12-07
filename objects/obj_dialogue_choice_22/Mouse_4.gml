@@ -9,4 +9,6 @@ if (!instance_exists(obj_textbox)) {
 		
 		ds_list_add(_list, _arr);
 	}
+	addClue("They were framed with the rope!", "Carrie")
+	addClue("They were poisoned!", "Iggy")
 }

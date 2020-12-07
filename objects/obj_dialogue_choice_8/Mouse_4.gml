@@ -9,4 +9,6 @@ if (!instance_exists(obj_textbox)) {
 		
 		ds_list_add(_list, _arr);
 	}
+	addClue("They were cooking a rather pungent fish for their nana before the murder.", "Herby")
+	addClue("They were never able to deliver the fish, because of the muder.", "Herby")
 }

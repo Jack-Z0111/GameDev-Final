@@ -9,4 +9,6 @@ if (!instance_exists(obj_textbox)) {
 		
 		ds_list_add(_list, _arr);
 	}
+	
+	addClue("There was a note saying 'I left a surprise for you in the den. You're Welcome!' in the trash.", "Physical Evidence")
 }

@@ -9,4 +9,7 @@ if (!instance_exists(obj_textbox)) {
 		
 		ds_list_add(_list, _arr);
 	}
+	
+	addClue("The container's initial was 'H' for Herby!", "Physical Evidence")
+	addClue("They deny the poisoning!", "Herby")
 }

@@ -9,4 +9,7 @@ if (!instance_exists(obj_textbox)) {
 		
 		ds_list_add(_list, _arr);
 	}
+	
+	addClue("They seem to really think it was Carrie...", "Omar")
+	addClue("They are the only one with the know-how and strength to use the rope.", "Carrie")
 }

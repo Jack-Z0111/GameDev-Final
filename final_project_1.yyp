@@ -86,6 +86,7 @@
     {"id":{"name":"font0","path":"fonts/font0/font0.yy",},"order":0,},
     {"id":{"name":"spr_dialogue_choice_37","path":"sprites/spr_dialogue_choice_37/spr_dialogue_choice_37.yy",},"order":55,},
     {"id":{"name":"Room_ch_c","path":"rooms/Room_ch_c/Room_ch_c.yy",},"order":3,},
+    {"id":{"name":"rm_scene2","path":"rooms/rm_scene2/rm_scene2.yy",},"order":7,},
     {"id":{"name":"obj_ch_omar_s4","path":"objects/obj_ch_omar_s4/obj_ch_omar_s4.yy",},"order":65,},
     {"id":{"name":"spr_dialogue_choice_18","path":"sprites/spr_dialogue_choice_18/spr_dialogue_choice_18.yy",},"order":36,},
     {"id":{"name":"spr_dialogue_choice_17","path":"sprites/spr_dialogue_choice_17/spr_dialogue_choice_17.yy",},"order":35,},
@@ -187,6 +188,7 @@
   },
   "RoomOrder": [
     {"name":"rm_scene1","path":"rooms/rm_scene1/rm_scene1.yy",},
+    {"name":"rm_scene2","path":"rooms/rm_scene2/rm_scene2.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

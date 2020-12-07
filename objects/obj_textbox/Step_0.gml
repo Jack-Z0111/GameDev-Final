@@ -22,7 +22,7 @@ if (messageChar <= string_length(_text)) {
 	messageChar += messageSpeed;
 	//if audioDetective
 	//audio_play_sound(snd_detective,1,false)
-	else if obj_ch_herby_parent.audioHerby
+    if obj_ch_herby_parent.audioHerby
 	audio_play_sound(snd_herby,1,false)
 	else if obj_ch_carrie_parent.audioCarrie
 	audio_play_sound(snd_carrie,1,false)

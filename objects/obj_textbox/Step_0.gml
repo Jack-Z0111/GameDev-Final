@@ -2,6 +2,17 @@
 var _arr = messages[| messageID]; //get array for message
 
 var _text = _arr[MSG.TEXT]; //get text from array
+var _name = _arr[MSG.NAME];
+
+/*if  _name == "Detective"
+{
+	audioDetective=true
+}
+else
+{
+audioDetective=false
+}
+*/
 
 //get message string
 messageText = string_copy(_text, 1, messageChar); //start from begining of string and copy that character
@@ -9,7 +20,9 @@ messageText = string_copy(_text, 1, messageChar); //start from begining of strin
 //is the string not fully drawn
 if (messageChar <= string_length(_text)) {
 	messageChar += messageSpeed;
-	if obj_ch_herby_parent.audioHerby
+	//if audioDetective
+	//audio_play_sound(snd_detective,1,false)
+	else if obj_ch_herby_parent.audioHerby
 	audio_play_sound(snd_herby,1,false)
 	else if obj_ch_carrie_parent.audioCarrie
 	audio_play_sound(snd_carrie,1,false)

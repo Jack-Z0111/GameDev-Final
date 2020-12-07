@@ -6,6 +6,7 @@
     {"id":{"name":"obj_dialogue_choice_35","path":"objects/obj_dialogue_choice_35/obj_dialogue_choice_35.yy",},"order":46,},
     {"id":{"name":"obj_dialogue_choice_37","path":"objects/obj_dialogue_choice_37/obj_dialogue_choice_37.yy",},"order":48,},
     {"id":{"name":"spr_herby_angry","path":"sprites/spr_herby_angry/spr_herby_angry.yy",},"order":17,},
+    {"id":{"name":"spr_calendar","path":"sprites/spr_calendar/spr_calendar.yy",},"order":68,},
     {"id":{"name":"obj_dialogue_choice_5","path":"objects/obj_dialogue_choice_5/obj_dialogue_choice_5.yy",},"order":16,},
     {"id":{"name":"spr_dialogue_choice_24","path":"sprites/spr_dialogue_choice_24/spr_dialogue_choice_24.yy",},"order":42,},
     {"id":{"name":"spr_dialogue_choice_15","path":"sprites/spr_dialogue_choice_15/spr_dialogue_choice_15.yy",},"order":33,},

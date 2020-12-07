@@ -174,8 +174,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
     {"roomId":{"name":"suspect_room","path":"rooms/suspect_room/suspect_room.yy",},},
+    {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

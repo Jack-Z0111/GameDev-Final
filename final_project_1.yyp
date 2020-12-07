@@ -130,6 +130,7 @@
     {"id":{"name":"obj_ch_herby_s3","path":"objects/obj_ch_herby_s3/obj_ch_herby_s3.yy",},"order":6,},
     {"id":{"name":"spr_dialogue_choice_39","path":"sprites/spr_dialogue_choice_39/spr_dialogue_choice_39.yy",},"order":57,},
     {"id":{"name":"obj_dialogue_choice_12","path":"objects/obj_dialogue_choice_12/obj_dialogue_choice_12.yy",},"order":23,},
+    {"id":{"name":"spr_bookshelf","path":"sprites/spr_bookshelf/spr_bookshelf.yy",},"order":66,},
     {"id":{"name":"obj_dialogue_choice_39","path":"objects/obj_dialogue_choice_39/obj_dialogue_choice_39.yy",},"order":50,},
     {"id":{"name":"obj_light","path":"objects/obj_light/obj_light.yy",},"order":72,},
     {"id":{"name":"obj_dialogue_choice_28","path":"objects/obj_dialogue_choice_28/obj_dialogue_choice_28.yy",},"order":39,},

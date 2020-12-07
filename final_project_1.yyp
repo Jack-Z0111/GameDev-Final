@@ -128,6 +128,7 @@
     {"id":{"name":"obj_dialogue_choice_23","path":"objects/obj_dialogue_choice_23/obj_dialogue_choice_23.yy",},"order":34,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":4,},
+    {"id":{"name":"spr_new_livingroom_background","path":"sprites/spr_new_livingroom_background/spr_new_livingroom_background.yy",},"order":69,},
     {"id":{"name":"spr_dialogue_choice_34","path":"sprites/spr_dialogue_choice_34/spr_dialogue_choice_34.yy",},"order":52,},
     {"id":{"name":"obj_ch_herby_s3","path":"objects/obj_ch_herby_s3/obj_ch_herby_s3.yy",},"order":6,},
     {"id":{"name":"spr_dialogue_choice_39","path":"sprites/spr_dialogue_choice_39/spr_dialogue_choice_39.yy",},"order":57,},

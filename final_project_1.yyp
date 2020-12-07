@@ -27,6 +27,7 @@
     {"id":{"name":"spr_dialogue_choice_27","path":"sprites/spr_dialogue_choice_27/spr_dialogue_choice_27.yy",},"order":45,},
     {"id":{"name":"spr_dialogue_choice_14","path":"sprites/spr_dialogue_choice_14/spr_dialogue_choice_14.yy",},"order":32,},
     {"id":{"name":"obj_page","path":"objects/obj_page/obj_page.yy",},"order":3,},
+    {"id":{"name":"suspect_room","path":"rooms/suspect_room/suspect_room.yy",},"order":2,},
     {"id":{"name":"spr_dialogue_choice_1","path":"sprites/spr_dialogue_choice_1/spr_dialogue_choice_1.yy",},"order":19,},
     {"id":{"name":"obj_dialogue_choice_19","path":"objects/obj_dialogue_choice_19/obj_dialogue_choice_19.yy",},"order":30,},
     {"id":{"name":"obj_dialogue_choice_7","path":"objects/obj_dialogue_choice_7/obj_dialogue_choice_7.yy",},"order":18,},
@@ -68,6 +69,7 @@
     {"id":{"name":"obj_dialogue_choice_14","path":"objects/obj_dialogue_choice_14/obj_dialogue_choice_14.yy",},"order":25,},
     {"id":{"name":"obj_ast_garbagecan","path":"objects/obj_ast_garbagecan/obj_ast_garbagecan.yy",},"order":10,},
     {"id":{"name":"showChoices","path":"scripts/showChoices/showChoices.yy",},"order":2,},
+    {"id":{"name":"spr_light","path":"sprites/spr_light/spr_light.yy",},"order":65,},
     {"id":{"name":"obj_ch_carrie_s3","path":"objects/obj_ch_carrie_s3/obj_ch_carrie_s3.yy",},"order":62,},
     {"id":{"name":"spr_dialogue_choice_21","path":"sprites/spr_dialogue_choice_21/spr_dialogue_choice_21.yy",},"order":39,},
     {"id":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},"order":1,},
@@ -129,6 +131,7 @@
     {"id":{"name":"spr_dialogue_choice_39","path":"sprites/spr_dialogue_choice_39/spr_dialogue_choice_39.yy",},"order":57,},
     {"id":{"name":"obj_dialogue_choice_12","path":"objects/obj_dialogue_choice_12/obj_dialogue_choice_12.yy",},"order":23,},
     {"id":{"name":"obj_dialogue_choice_39","path":"objects/obj_dialogue_choice_39/obj_dialogue_choice_39.yy",},"order":50,},
+    {"id":{"name":"obj_light","path":"objects/obj_light/obj_light.yy",},"order":72,},
     {"id":{"name":"obj_dialogue_choice_28","path":"objects/obj_dialogue_choice_28/obj_dialogue_choice_28.yy",},"order":39,},
     {"id":{"name":"spr_dialogue_choice_26","path":"sprites/spr_dialogue_choice_26/spr_dialogue_choice_26.yy",},"order":44,},
     {"id":{"name":"spr_dialogue_choice_4","path":"sprites/spr_dialogue_choice_4/spr_dialogue_choice_4.yy",},"order":22,},
@@ -166,6 +169,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
+    {"roomId":{"name":"suspect_room","path":"rooms/suspect_room/suspect_room.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

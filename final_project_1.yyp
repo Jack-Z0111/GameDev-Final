@@ -134,6 +134,7 @@
     {"id":{"name":"obj_dialogue_choice_39","path":"objects/obj_dialogue_choice_39/obj_dialogue_choice_39.yy",},"order":50,},
     {"id":{"name":"obj_light","path":"objects/obj_light/obj_light.yy",},"order":72,},
     {"id":{"name":"obj_dialogue_choice_28","path":"objects/obj_dialogue_choice_28/obj_dialogue_choice_28.yy",},"order":39,},
+    {"id":{"name":"obj_bookshelf","path":"objects/obj_bookshelf/obj_bookshelf.yy",},"order":73,},
     {"id":{"name":"spr_dialogue_choice_26","path":"sprites/spr_dialogue_choice_26/spr_dialogue_choice_26.yy",},"order":44,},
     {"id":{"name":"spr_dialogue_choice_4","path":"sprites/spr_dialogue_choice_4/spr_dialogue_choice_4.yy",},"order":22,},
     {"id":{"name":"spr_living_room_background","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"order":16,},

@@ -69,6 +69,7 @@
     {"id":{"name":"obj_dialogue_choice_43","path":"objects/obj_dialogue_choice_43/obj_dialogue_choice_43.yy",},"order":54,},
     {"id":{"name":"spr_dialogue_choice_35","path":"sprites/spr_dialogue_choice_35/spr_dialogue_choice_35.yy",},"order":53,},
     {"id":{"name":"obj_ast_rope","path":"objects/obj_ast_rope/obj_ast_rope.yy",},"order":68,},
+    {"id":{"name":"spr_second_shelf","path":"sprites/spr_second_shelf/spr_second_shelf.yy",},"order":71,},
     {"id":{"name":"obj_dialogue_choice_46","path":"objects/obj_dialogue_choice_46/obj_dialogue_choice_46.yy",},"order":57,},
     {"id":{"name":"obj_dialogue_choice_14","path":"objects/obj_dialogue_choice_14/obj_dialogue_choice_14.yy",},"order":25,},
     {"id":{"name":"obj_ast_garbagecan","path":"objects/obj_ast_garbagecan/obj_ast_garbagecan.yy",},"order":10,},

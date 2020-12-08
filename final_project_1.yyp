@@ -42,6 +42,7 @@
     {"id":{"name":"obj_dialogue_choice_45","path":"objects/obj_dialogue_choice_45/obj_dialogue_choice_45.yy",},"order":56,},
     {"id":{"name":"obj_scene_roomshifter","path":"objects/obj_scene_roomshifter/obj_scene_roomshifter.yy",},"order":11,},
     {"id":{"name":"spr_dialogue_choice_11","path":"sprites/spr_dialogue_choice_11/spr_dialogue_choice_11.yy",},"order":29,},
+    {"id":{"name":"obj_end_table","path":"objects/obj_end_table/obj_end_table.yy",},"order":82,},
     {"id":{"name":"addClue","path":"scripts/addClue/addClue.yy",},"order":1,},
     {"id":{"name":"obj_dialogue_choice_16","path":"objects/obj_dialogue_choice_16/obj_dialogue_choice_16.yy",},"order":27,},
     {"id":{"name":"obj_ch_carrie_s4","path":"objects/obj_ch_carrie_s4/obj_ch_carrie_s4.yy",},"order":63,},

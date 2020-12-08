@@ -165,6 +165,7 @@
     {"id":{"name":"obj_painting","path":"objects/obj_painting/obj_painting.yy",},"order":74,},
     {"id":{"name":"obj_calendar","path":"objects/obj_calendar/obj_calendar.yy",},"order":75,},
     {"id":{"name":"spr_living_room_background","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"order":16,},
+    {"id":{"name":"obj_couch","path":"objects/obj_couch/obj_couch.yy",},"order":85,},
     {"id":{"name":"obj_dialogue_choice_4","path":"objects/obj_dialogue_choice_4/obj_dialogue_choice_4.yy",},"order":15,},
     {"id":{"name":"obj_s2_end","path":"objects/obj_s2_end/obj_s2_end.yy",},"order":60,},
     {"id":{"name":"obj_s3","path":"objects/obj_s3/obj_s3.yy",},"order":61,},

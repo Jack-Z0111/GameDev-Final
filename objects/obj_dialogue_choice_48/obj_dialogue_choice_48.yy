@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_dialogue_choice_48",
+    "path": "sprites/spr_dialogue_choice_48/spr_dialogue_choice_48.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

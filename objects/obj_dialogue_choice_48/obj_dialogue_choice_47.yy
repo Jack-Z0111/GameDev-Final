@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_dialogue_choice_47",
-    "path": "sprites/spr_dialogue_choice_47/spr_dialogue_choice_47.yy",
+    "name": "spr_dialogue_choice_1",
+    "path": "sprites/spr_dialogue_choice_1/spr_dialogue_choice_1.yy",
   },
   "solid": false,
   "visible": true,

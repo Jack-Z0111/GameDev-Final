@@ -1,26 +1,19 @@
-//this is for when you ask Carrie about omar
+//this is for when you ask Carrie about herby
 msg = [
-["So what can you tell me about Iggy's roommate?", "Detective", -1],
-["That guy is kind of a lot.", "Carrie", -1],
-["I've only been here for 3 days and he's already trying to shove me out the door.", "Carrie", -1],
-["I've heard him arguing with Iggy repeatedly, and my own names come up quite a few times.", "Carrie", -1],
-["I'm sure he's not happy about me staying here.", "Carrie", -1],
-["What makes you say that?", "Detective", -1],
-["Well he's not really hiding it.", "Carrie", -1],
-["Like at all.", "Carrie", -1],
-["He's always putting coasters under my cups while mumbling to himself angrily.", "Carrie", -1],
-["and when I accidentally drank some of his orange juice from the fridge he threw out the whole container.", "Carrie", -1],
-["I didn't even put my mouth on the bottle, I just poured some into a glass!", "Carrie", -1],
-["I guess I 'tainted it' with my suspected criminality.", "Carrie", -1],
-["Joke's on him cause I had some of the milk too, haha.", "Carrie", -1],
-["Does Omar seem like an aggressive person to you?", "Detective", -1],
-["Well I wouldn't quite put it that way, but he's definitely a bit compulsive.", "Carrie", -1],
-["I wouldn't be all that surprised if he killed Iggy.", "Carrie", -1],
-["They had been fighting a lot,", "Carrie", -1],
-["and Omar seems to have a short fuse.", "Carrie", -1],
-["Killing his roommate over a dispute like that though?", "Detective", -1],
-["I don't know if I buy it...", "Detective", -1],
-["It's just a thought.", "Carrie", -1],
-["Like I said, I really have no idea what actually happened.", "Carrie", -1]
+["Do you know anything about the neighbor?", "Detective", -1],
+["Herby, was it?", "Detective", -1],
+["Not so much.", "Carrie", -1],
+["I've only been staying here for a few days while Iggy was sorting some stuff about my trial.", "Carrie", -1],
+["Oh okay.", "Detective", -1],
+["There is one thing though.", "Carrie", -1],
+["He's been cooking some very loud smelling food since I've been here.", "Carrie", -1],
+["It's kind of fishy and unpleasant.", "Carrie", -1],
+["Really?", "Detective", -1],
+["The smell must be pretty strong to waft over here from the next apartment.", "Detective", -1],
+["Strong is an understatement.", "Carrie", -1],
+["But the weirdest part is that I don't even know what he could be cooking that would smell like that.", "Carrie", -1],
+["He's an herbivore after all.", "Carrie", -1],
+["Sorry, I guess this isn't really useful information.", "Carrie", -1],
+["No, it's okay.", "Detective", -1],
+["Every bit helps.", "Detective", -1]
 ]
-

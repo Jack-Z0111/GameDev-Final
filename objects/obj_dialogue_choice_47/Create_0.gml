@@ -23,4 +23,3 @@ msg = [
 ["It's just a thought.", "Carrie", -1],
 ["Like I said, I really have no idea what actually happened.", "Carrie", -1]
 ]
-

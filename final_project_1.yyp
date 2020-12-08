@@ -35,6 +35,7 @@
     {"id":{"name":"suspect_room","path":"rooms/suspect_room/suspect_room.yy",},"order":2,},
     {"id":{"name":"spr_dialogue_choice_1","path":"sprites/spr_dialogue_choice_1/spr_dialogue_choice_1.yy",},"order":19,},
     {"id":{"name":"obj_dialogue_choice_19","path":"objects/obj_dialogue_choice_19/obj_dialogue_choice_19.yy",},"order":30,},
+    {"id":{"name":"spr_couch","path":"sprites/spr_couch/spr_couch.yy",},"order":75,},
     {"id":{"name":"obj_dialogue_choice_7","path":"objects/obj_dialogue_choice_7/obj_dialogue_choice_7.yy",},"order":18,},
     {"id":{"name":"obj_nb","path":"objects/obj_nb/obj_nb.yy",},"order":2,},
     {"id":{"name":"spr_dialogue_choice_46","path":"sprites/spr_dialogue_choice_46/spr_dialogue_choice_46.yy",},"order":64,},

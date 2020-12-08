@@ -20,6 +20,10 @@ messageText = string_copy(_text, 1, messageChar); //start from begining of strin
 //is the string not fully drawn
 if (messageChar <= string_length(_text)) {
 	messageChar += messageSpeed;
+	if (mouse_check_button_pressed(mb_left)) {
+		messageChar = string_length(_text);
+	}
+	
 	//if audioDetective
 	//audio_play_sound(snd_detective,1,false)
     //if obj_ch_herby_parent.audioHerby

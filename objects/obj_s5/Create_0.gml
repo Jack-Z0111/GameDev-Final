@@ -27,3 +27,7 @@ msg = [
 ["But I have evidence to suggest that the rope was not used to strangle him.", "Detective", -1],
 ["What evidence is that?", "Omar", -1]
 ]
+//DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
+//global.choice1 = obj_dialogue_choice_46 //the note
+//global.choice2 = obj_dialogue_choice_5 //the body //CORRECT CHOICE
+//global.choice3 = obj_dialogue_choice_9 //the crime scene

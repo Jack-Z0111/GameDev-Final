@@ -26,3 +26,8 @@ msg = [
 ["Aside from the lack of rope marks,", "Detective", -1],
 ["there was something else very odd about the state of the body.", "Detective", -1]
 ]
+
+//DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
+//global.choice1 = obj_dialogue_choice_18 //his hands 
+//global.choice2 = obj_dialogue_choice_16 //his tongue //CORRECT CHOICE
+//global.choice3 = obj_dialogue_choice_17 //his clothes

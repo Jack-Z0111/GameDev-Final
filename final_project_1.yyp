@@ -120,6 +120,7 @@
     {"id":{"name":"obj_ch_carrie_s1","path":"objects/obj_ch_carrie_s1/obj_ch_carrie_s1.yy",},"order":5,},
     {"id":{"name":"spr_dialogue_choice_8","path":"sprites/spr_dialogue_choice_8/spr_dialogue_choice_8.yy",},"order":26,},
     {"id":{"name":"obj_choice_par","path":"objects/obj_choice_par/obj_choice_par.yy",},"order":71,},
+    {"id":{"name":"spr_end_table","path":"sprites/spr_end_table/spr_end_table.yy",},"order":72,},
     {"id":{"name":"spr_note_clue","path":"sprites/spr_note_clue/spr_note_clue.yy",},"order":9,},
     {"id":{"name":"obj_dialogue_choice_13","path":"objects/obj_dialogue_choice_13/obj_dialogue_choice_13.yy",},"order":24,},
     {"id":{"name":"obj_dialogue_choice_38","path":"objects/obj_dialogue_choice_38/obj_dialogue_choice_38.yy",},"order":49,},

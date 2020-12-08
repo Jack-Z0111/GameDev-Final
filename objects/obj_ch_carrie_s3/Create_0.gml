@@ -5,3 +5,8 @@ msg = [
 ["I'll help in any way I can,", "Carrie", -1],
 ["but I don't really know anything about what happened.", "Carrie", -1]
 ]
+
+//DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
+//global.choice1 = obj_dialogue_choice_0
+//global.choice1 = obj_dialogue_choice_00
+//global.choice1 = obj_dialogue_choice_1

@@ -1,8 +1,9 @@
 if (global.s1_done == false) {
 	room_goto(rm_scene1);
-} else {
-	room_goto(rm_scene2);
 }
+//} else {
+//	room_goto(rm_scene2);
+//}
 //switch(global.scenes)
 //{
 //	case scenes.arrival:

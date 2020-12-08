@@ -7,6 +7,6 @@ msg = [
 ]
 
 //DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
-//global.choice1 = obj_dialogue_choice_0
-//global.choice1 = obj_dialogue_choice_00
+//global.choice1 = obj_dialogue_choice_47
+//global.choice1 = obj_dialogue_choice_48
 //global.choice1 = obj_dialogue_choice_1

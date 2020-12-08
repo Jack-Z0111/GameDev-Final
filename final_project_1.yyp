@@ -80,6 +80,7 @@
     {"id":{"name":"obj_ch_carrie_s3","path":"objects/obj_ch_carrie_s3/obj_ch_carrie_s3.yy",},"order":62,},
     {"id":{"name":"spr_dialogue_choice_21","path":"sprites/spr_dialogue_choice_21/spr_dialogue_choice_21.yy",},"order":39,},
     {"id":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},"order":1,},
+    {"id":{"name":"obj_second_shelf","path":"objects/obj_second_shelf/obj_second_shelf.yy",},"order":81,},
     {"id":{"name":"obj_dialogue_choice_2","path":"objects/obj_dialogue_choice_2/obj_dialogue_choice_2.yy",},"order":13,},
     {"id":{"name":"obj_dialogue_choice_3","path":"objects/obj_dialogue_choice_3/obj_dialogue_choice_3.yy",},"order":14,},
     {"id":{"name":"spr_dialogue_choice_19","path":"sprites/spr_dialogue_choice_19/spr_dialogue_choice_19.yy",},"order":37,},

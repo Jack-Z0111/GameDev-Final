@@ -12,3 +12,8 @@ msg = [
 ["Yes...I'll be okay.", "Omar", -1],
 ["How can I help?", "Omar", -1]
 ]
+
+//DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
+//global.choice1 = obj_dialogue_choice_2 //about carrie
+//global.choice2 = obj_dialogue_choice_3 //about iggys body
+//global.choice3 = obj_dialogue_choice_7 //the tupperware

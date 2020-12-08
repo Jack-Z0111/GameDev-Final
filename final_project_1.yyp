@@ -108,6 +108,7 @@
     {"id":{"name":"obj_dialogue_choice_10","path":"objects/obj_dialogue_choice_10/obj_dialogue_choice_10.yy",},"order":21,},
     {"id":{"name":"spr_iggy","path":"sprites/spr_iggy/spr_iggy.yy",},"order":3,},
     {"id":{"name":"spr_herby_talking","path":"sprites/spr_herby_talking/spr_herby_talking.yy",},"order":11,},
+    {"id":{"name":"spr_table","path":"sprites/spr_table/spr_table.yy",},"order":73,},
     {"id":{"name":"obj_dialogue_choice_41","path":"objects/obj_dialogue_choice_41/obj_dialogue_choice_41.yy",},"order":52,},
     {"id":{"name":"obj_dialogue_choice_42","path":"objects/obj_dialogue_choice_42/obj_dialogue_choice_42.yy",},"order":53,},
     {"id":{"name":"spr_dialogue_choice_16","path":"sprites/spr_dialogue_choice_16/spr_dialogue_choice_16.yy",},"order":34,},

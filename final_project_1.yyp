@@ -166,6 +166,7 @@
     {"id":{"name":"spr_dialogue_choice_5","path":"sprites/spr_dialogue_choice_5/spr_dialogue_choice_5.yy",},"order":23,},
     {"id":{"name":"obj_test_git","path":"objects/obj_test_git/obj_test_git.yy",},"order":4,},
     {"id":{"name":"spr_dialogue_choice_25","path":"sprites/spr_dialogue_choice_25/spr_dialogue_choice_25.yy",},"order":43,},
+    {"id":{"name":"obj_fan","path":"objects/obj_fan/obj_fan.yy",},"order":80,},
     {"id":{"name":"spr_herby","path":"sprites/spr_herby/spr_herby.yy",},"order":0,},
   ],
   "Options": [

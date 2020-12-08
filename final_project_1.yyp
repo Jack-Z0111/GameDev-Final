@@ -28,6 +28,7 @@
     {"id":{"name":"spr_dialogue_choice_38","path":"sprites/spr_dialogue_choice_38/spr_dialogue_choice_38.yy",},"order":56,},
     {"id":{"name":"obj_dialogue_choice_34","path":"objects/obj_dialogue_choice_34/obj_dialogue_choice_34.yy",},"order":45,},
     {"id":{"name":"spr_dialogue_choice_27","path":"sprites/spr_dialogue_choice_27/spr_dialogue_choice_27.yy",},"order":45,},
+    {"id":{"name":"obj_table","path":"objects/obj_table/obj_table.yy",},"order":83,},
     {"id":{"name":"spr_dialogue_choice_14","path":"sprites/spr_dialogue_choice_14/spr_dialogue_choice_14.yy",},"order":32,},
     {"id":{"name":"obj_page","path":"objects/obj_page/obj_page.yy",},"order":3,},
     {"id":{"name":"suspect_room","path":"rooms/suspect_room/suspect_room.yy",},"order":2,},

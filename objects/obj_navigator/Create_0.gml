@@ -1,5 +1,9 @@
+global.s1_end = false;
+global.s1_condition = false;
+global.s2_end = false;
+
 //scenes
-enum scenes
+enum scene
 {
 	arrival,
 	investigation,
@@ -7,5 +11,6 @@ enum scenes
 	interrogation2,
 	solving
 }
-global.scenes=scenes.arrival
+
+global.scene = scene.arrival;
 	

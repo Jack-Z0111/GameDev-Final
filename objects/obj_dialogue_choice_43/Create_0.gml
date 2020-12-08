@@ -56,3 +56,4 @@ msg = [
 ["I'll do my best.", "Detective", -1],
 ["Now then, on to the next case!", "Detective", -1]
 ]
+//THIS IS THE END OF THE GAME

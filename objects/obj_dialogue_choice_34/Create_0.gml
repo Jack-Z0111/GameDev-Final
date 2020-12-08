@@ -18,3 +18,8 @@ msg = [
 ["My evidence against you is right here.", "Detective", -1],
 ["Take a closer look at this tupperware container and you'll see what I mean.", "Detective", -1]
 ]
+
+//DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
+//global.choice1 = obj_dialogue_choice_37 //lid //CORRECT CHOICE
+//global.choice2 = obj_dialogue_choice_39 //color
+//global.choice3 = obj_dialogue_choice_38 //contents

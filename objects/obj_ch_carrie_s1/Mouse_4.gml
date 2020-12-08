@@ -15,11 +15,3 @@ if (!instance_exists(obj_textbox)) {
 	//addClue("You talked to Carrie! They're a sailor/pirate who claims innocence.", "Carrie")
 	
 }
-with (obj_textbox) {
-	if (mouse_check_button_pressed(mb_left)) {
-		if (messageID == 2) {
-			show_debug_message("it works");
-			global.s1_done = true;
-		}
-	}
-}

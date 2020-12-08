@@ -200,9 +200,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
     {"roomId":{"name":"suspect_room","path":"rooms/suspect_room/suspect_room.yy",},},
     {"roomId":{"name":"Room_ch_o","path":"rooms/Room_ch_o/Room_ch_o.yy",},},
-    {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
     {"roomId":{"name":"rm_scene1","path":"rooms/rm_scene1/rm_scene1.yy",},},
     {"roomId":{"name":"Room_ch_c","path":"rooms/Room_ch_c/Room_ch_c.yy",},},
     {"roomId":{"name":"rm_scene2","path":"rooms/rm_scene2/rm_scene2.yy",},},

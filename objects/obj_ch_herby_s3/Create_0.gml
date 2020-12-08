@@ -21,3 +21,8 @@ msg = [
 ["Go ahead, I'm happy to help!", "Herby", -1],
 ["(You sure are.)", "Detective", -1]
 ]
+
+//DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
+//global.choice1 = obj_dialogue_choice_4 //about iggy
+//global.choice2 = obj_dialogue_choice_2 //about carrie
+//global.choice3 = obj_dialogue_choice_6 //the note

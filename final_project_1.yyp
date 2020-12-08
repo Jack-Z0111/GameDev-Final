@@ -74,6 +74,7 @@
     {"id":{"name":"obj_ast_garbagecan","path":"objects/obj_ast_garbagecan/obj_ast_garbagecan.yy",},"order":10,},
     {"id":{"name":"snd_carrie","path":"sounds/snd_carrie/snd_carrie.yy",},"order":1,},
     {"id":{"name":"showChoices","path":"scripts/showChoices/showChoices.yy",},"order":2,},
+    {"id":{"name":"spr_fan","path":"sprites/spr_fan/spr_fan.yy",},"order":70,},
     {"id":{"name":"spr_light","path":"sprites/spr_light/spr_light.yy",},"order":65,},
     {"id":{"name":"obj_ch_carrie_s3","path":"objects/obj_ch_carrie_s3/obj_ch_carrie_s3.yy",},"order":62,},
     {"id":{"name":"spr_dialogue_choice_21","path":"sprites/spr_dialogue_choice_21/spr_dialogue_choice_21.yy",},"order":39,},
@@ -186,9 +187,14 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [
-    {"name":"rm_scene1","path":"rooms/rm_scene1/rm_scene1.yy",},
-    {"name":"rm_scene2","path":"rooms/rm_scene2/rm_scene2.yy",},
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_scene1","path":"rooms/rm_scene1/rm_scene1.yy",},},
+    {"roomId":{"name":"rm_scene2","path":"rooms/rm_scene2/rm_scene2.yy",},},
+    {"roomId":{"name":"suspect_room","path":"rooms/suspect_room/suspect_room.yy",},},
+    {"roomId":{"name":"Room_ch_o","path":"rooms/Room_ch_o/Room_ch_o.yy",},},
+    {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
+    {"roomId":{"name":"Room_ch_c","path":"rooms/Room_ch_c/Room_ch_c.yy",},},
+    {"roomId":{"name":"Room_ch_h","path":"rooms/Room_ch_h/Room_ch_h.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -210,13 +216,13 @@
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.0.529",
+    "IDEVersion": "2.3.1.536",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.4",
   "name": "final_project_1",
   "tags": [],
   "resourceType": "GMProject",

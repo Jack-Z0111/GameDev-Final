@@ -112,6 +112,7 @@
     {"id":{"name":"obj_dialogue_choice_24","path":"objects/obj_dialogue_choice_24/obj_dialogue_choice_24.yy",},"order":35,},
     {"id":{"name":"spr_dialogue_choice_10","path":"sprites/spr_dialogue_choice_10/spr_dialogue_choice_10.yy",},"order":28,},
     {"id":{"name":"obj_dialogue_choice_10","path":"objects/obj_dialogue_choice_10/obj_dialogue_choice_10.yy",},"order":21,},
+    {"id":{"name":"rm_scene4","path":"rooms/rm_scene4/rm_scene4.yy",},"order":8,},
     {"id":{"name":"spr_iggy","path":"sprites/spr_iggy/spr_iggy.yy",},"order":3,},
     {"id":{"name":"spr_herby_talking","path":"sprites/spr_herby_talking/spr_herby_talking.yy",},"order":11,},
     {"id":{"name":"spr_table","path":"sprites/spr_table/spr_table.yy",},"order":73,},
@@ -203,7 +204,9 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [],
+  "RoomOrder": [
+    {"name":"rm_scene4","path":"rooms/rm_scene4/rm_scene4.yy",},
+  ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets.yy","order":2,"resourceVersion":"1.0","name":"Tile Sets","tags":[],"resourceType":"GMFolder",},

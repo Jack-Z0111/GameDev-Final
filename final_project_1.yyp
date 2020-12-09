@@ -100,6 +100,7 @@
     {"id":{"name":"obj_cm_sc3_carrie","path":"objects/obj_cm_sc3_carrie/obj_cm_sc3_carrie.yy",},"order":88,},
     {"id":{"name":"obj_ch_omar_s4","path":"objects/obj_ch_omar_s4/obj_ch_omar_s4.yy",},"order":65,},
     {"id":{"name":"spr_dialogue_choice_18","path":"sprites/spr_dialogue_choice_18/spr_dialogue_choice_18.yy",},"order":36,},
+    {"id":{"name":"obj_vase","path":"objects/obj_vase/obj_vase.yy",},"order":94,},
     {"id":{"name":"spr_dialogue_choice_17","path":"sprites/spr_dialogue_choice_17/spr_dialogue_choice_17.yy",},"order":35,},
     {"id":{"name":"obj_s4","path":"objects/obj_s4/obj_s4.yy",},"order":66,},
     {"id":{"name":"spr_dialogue_choice_41","path":"sprites/spr_dialogue_choice_41/spr_dialogue_choice_41.yy",},"order":59,},

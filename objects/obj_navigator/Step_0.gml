@@ -55,7 +55,7 @@ switch(check)
 	break;
 	
 	case scene.interrogation2:
-		show_debug_message("Done")
+		
 		if (room != rm_scene4) {
 			room_goto(rm_scene4);
 		}

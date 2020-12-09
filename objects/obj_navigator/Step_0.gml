@@ -43,6 +43,19 @@ switch(check)
 			room_goto(rm_scene3);
 		}
 		
+		if global.s3_end{
+			check = scene.interrogation2
+		}
+		
+		
+	break;
+	
+	case scene.interrogation2:
+		show_debug_message("Done")
+		if (room != rm_scene4) {
+			room_goto(rm_scene4);
+		}
+
 		
 		
 	break;

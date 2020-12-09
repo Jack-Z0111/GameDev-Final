@@ -12,3 +12,5 @@ if (!instance_exists(obj_textbox)) {
 	
 	addClue("They could have murdered Iggy over money troubles.","Carrie")
 }
+
+_chosen = true;

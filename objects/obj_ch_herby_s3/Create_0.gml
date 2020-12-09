@@ -22,6 +22,7 @@ msg = [
 ["(You sure are.)", "Detective", -1]
 ]
 
+clicked = false
 //DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
 //global.choice1 = obj_dialogue_choice_4 //about iggy
 //global.choice2 = obj_dialogue_choice_2 //about carrie

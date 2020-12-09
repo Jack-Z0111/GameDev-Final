@@ -13,6 +13,9 @@ msg = [
 ["How can I help?", "Omar", -1]
 ]
 
+
+clicked = false;
+
 //DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
 //global.choice1 = obj_dialogue_choice_2 //about carrie
 //global.choice2 = obj_dialogue_choice_3 //about iggys body

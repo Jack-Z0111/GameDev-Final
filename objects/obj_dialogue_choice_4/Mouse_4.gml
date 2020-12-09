@@ -12,3 +12,5 @@ if (!instance_exists(obj_textbox)) {
 	addClue("They stressed out Iggy according to Herby. Why?", "Carrie")
 	addClue("They looked up to Iggy immensely and seem to be really beat up about their death.", "Herby")
 }
+
+_chosen = true;

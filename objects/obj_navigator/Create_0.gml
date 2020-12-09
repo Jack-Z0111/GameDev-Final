@@ -9,6 +9,8 @@ global.s2_checks = [false, false, false, false]
 s2_end = false;
 global.s2_endTwo = false;
 
+global.s3_end = false;
+
 //scenes
 enum scene
 {
@@ -19,6 +21,6 @@ enum scene
 	solving
 }
 
-check = scene.investigation;
+check = scene.arrival;
 	
 persistent = true

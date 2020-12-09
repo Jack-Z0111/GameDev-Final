@@ -13,3 +13,5 @@ if (!instance_exists(obj_textbox)) {
 	addClue("They seem to really think it was Carrie...", "Omar")
 	addClue("They are the only one with the know-how and strength to use the rope.", "Carrie")
 }
+
+_chosen = true;

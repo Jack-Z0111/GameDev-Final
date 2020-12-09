@@ -13,3 +13,5 @@ if (!instance_exists(obj_textbox)) {
 	addClue("Their tongue swells when having them.", "Iggy")
 	addClue("According to Omar, they were extra cautious to avoid having nuts.", "Iggy")
 }
+
+_chosen = true;

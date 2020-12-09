@@ -12,3 +12,5 @@ if (!instance_exists(obj_textbox)) {
 	
 	addClue("The rope is too pristine to have been the murder weapon.", "Physical Evidence")
 }
+
+_chosen = true;

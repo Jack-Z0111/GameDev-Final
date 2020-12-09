@@ -10,3 +10,5 @@ if choiceTwo != global.chosenOne{
 if choiceThree != global.chosenOne{
 	instance_destroy(choiceThree)
 }
+
+done = true;

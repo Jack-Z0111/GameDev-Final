@@ -11,3 +11,6 @@ if (!instance_exists(obj_textbox)) {
 	}
 	addClue("The tupperware container held the poisoned food!", "Physical Evidence")
 }
+instance_destroy(obj_dialogue_choice_32);
+instance_destroy(obj_dialogue_choice_33);
+clicked = true;

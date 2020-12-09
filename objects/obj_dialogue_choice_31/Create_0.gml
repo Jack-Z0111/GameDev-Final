@@ -10,7 +10,7 @@ msg = [
 ["The tupperware container was the final piece of evidence I needed to solve this case.", "Detective", -1],
 ["Because of it, I can say confidently that the killer is", "Detective", -1]
 ]
-
+clicked = false;
 //DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
 //global.choice1 = obj_dialogue_choice_35 //omar
 //global.choice2 = obj_dialogue_choice_36 //carrie

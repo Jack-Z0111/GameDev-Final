@@ -10,3 +10,6 @@ if (!instance_exists(obj_textbox)) {
 		ds_list_add(_list, _arr);
 	}
 }
+instance_destroy(obj_dialogue_choice_35);
+instance_destroy(obj_dialogue_choice_36);
+clicked = true;

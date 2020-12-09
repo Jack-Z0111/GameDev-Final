@@ -27,7 +27,7 @@ msg = [
 ["So what?!", "Herby", -1],
 ["So", "Detective", -1]
 ]
-
+clicked = false;
 //DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
 //global.choice1 = obj_dialogue_choice_45 //save me a piece
 //global.choice2 = obj_dialogue_choice_44 //go bring it to her

@@ -11,3 +11,6 @@ if (!instance_exists(obj_textbox)) {
 	}
 	
 }
+instance_destroy(obj_dialogue_choice_41);
+instance_destroy(obj_dialogue_choice_42);
+clicked = true;

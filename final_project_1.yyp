@@ -44,7 +44,6 @@
     {"id":{"name":"spr_dialogue_choice_40","path":"sprites/spr_dialogue_choice_40/spr_dialogue_choice_40.yy",},"order":58,},
     {"id":{"name":"obj_dialogue_choice_29","path":"objects/obj_dialogue_choice_29/obj_dialogue_choice_29.yy",},"order":40,},
     {"id":{"name":"obj_dialogue_choice_9","path":"objects/obj_dialogue_choice_9/obj_dialogue_choice_9.yy",},"order":20,},
-    {"id":{"name":"spr_vase","path":"sprites/spr_vase/spr_vase.yy",},"order":84,},
     {"id":{"name":"obj_dialogue_choice_45","path":"objects/obj_dialogue_choice_45/obj_dialogue_choice_45.yy",},"order":56,},
     {"id":{"name":"obj_scene_roomshifter","path":"objects/obj_scene_roomshifter/obj_scene_roomshifter.yy",},"order":11,},
     {"id":{"name":"spr_dialogue_choice_11","path":"sprites/spr_dialogue_choice_11/spr_dialogue_choice_11.yy",},"order":29,},
@@ -211,11 +210,11 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_scene3","path":"rooms/rm_scene3/rm_scene3.yy",},},
+    {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
     {"roomId":{"name":"rm_scene1","path":"rooms/rm_scene1/rm_scene1.yy",},},
     {"roomId":{"name":"rm_scene2","path":"rooms/rm_scene2/rm_scene2.yy",},},
-    {"roomId":{"name":"rm_scene3","path":"rooms/rm_scene3/rm_scene3.yy",},},
     {"roomId":{"name":"rm_scene4","path":"rooms/rm_scene4/rm_scene4.yy",},},
-    {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

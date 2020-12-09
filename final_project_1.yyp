@@ -53,6 +53,7 @@
     {"id":{"name":"spr_dialogue_choice_12","path":"sprites/spr_dialogue_choice_12/spr_dialogue_choice_12.yy",},"order":30,},
     {"id":{"name":"obj_dialogue_choice_22","path":"objects/obj_dialogue_choice_22/obj_dialogue_choice_22.yy",},"order":33,},
     {"id":{"name":"spr_dialogue_choice_30","path":"sprites/spr_dialogue_choice_30/spr_dialogue_choice_30.yy",},"order":48,},
+    {"id":{"name":"spr_teacup","path":"sprites/spr_teacup/spr_teacup.yy",},"order":83,},
     {"id":{"name":"spr_suspect_room_background","path":"sprites/spr_suspect_room_background/spr_suspect_room_background.yy",},"order":15,},
     {"id":{"name":"spr_rope","path":"sprites/spr_rope/spr_rope.yy",},"order":18,},
     {"id":{"name":"obj_dialogue_choice_18","path":"objects/obj_dialogue_choice_18/obj_dialogue_choice_18.yy",},"order":29,},

@@ -16,3 +16,4 @@ if (!instance_exists(obj_textbox)) {
 	
 }
 
+obj_textbox.audioCarrie=true

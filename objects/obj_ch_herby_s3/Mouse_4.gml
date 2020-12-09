@@ -21,3 +21,5 @@ if (!instance_exists(obj_textbox)) {
 		manager.alarm[0]=5
 	}
 }
+
+obj_textbox.audioHerby=true

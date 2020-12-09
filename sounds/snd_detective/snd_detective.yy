@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_herby.ogg",
-  "duration": 0.180465,
+  "soundFile": "snd_detective.ogg",
+  "duration": 0.155272,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "snd_herby",
+  "name": "snd_detective",
   "tags": [],
   "resourceType": "GMSound",
 }

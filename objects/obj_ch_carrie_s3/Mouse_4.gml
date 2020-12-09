@@ -23,3 +23,5 @@ if not clicked{
 		manager.alarm[0]=5
 	}
 }
+
+obj_textbox.audioCarrie=true

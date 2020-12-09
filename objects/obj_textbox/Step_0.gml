@@ -4,7 +4,7 @@ var _arr = messages[| messageID]; //get array for message
 var _text = _arr[MSG.TEXT]; //get text from array
 var _name = _arr[MSG.NAME];
 
-/*if  _name == "Detective"
+if  _name == "Detective"
 {
 	audioDetective=true
 }
@@ -12,7 +12,7 @@ else
 {
 audioDetective=false
 }
-*/
+
 
 //get message string
 messageText = string_copy(_text, 1, messageChar); //start from begining of string and copy that character
@@ -24,14 +24,14 @@ if (messageChar <= string_length(_text)) {
 		messageChar = string_length(_text);
 	}
 	
-	//if audioDetective
-	//audio_play_sound(snd_detective,1,false)
-    //if obj_ch_herby_parent.audioHerby
-	//audio_play_sound(snd_herby,1,false)
-	//else if obj_ch_carrie_parent.audioCarrie
-	//audio_play_sound(snd_carrie,1,false)
-	//else if obj_ch_omar_parent.audioOmar
-	//audio_play_sound(snd_omar,1,false)
+	if audioDetective
+	audio_play_sound(snd_detective,1,false)
+    else if audioHerby
+	audio_play_sound(snd_herby,1,false)
+	else if audioCarrie
+	audio_play_sound(snd_carrie,1,false)
+	else if audioOmar
+	audio_play_sound(snd_omar,1,false)
 	
 }
 //string is fully drawn
@@ -46,9 +46,9 @@ else if (mouse_check_button_pressed(mb_left)) {
 	else {
 		instance_destroy();
 		//instance_destroy(global.choice1);
-		//obj_ch_herby_parent.audioHerby=false
-		//obj_ch_carrie_parent.audioCarrie=false
-		//obj_ch_omar_parent.audioOmar=false
+		audioHerby=false
+	   audioCarrie=false
+		audioOmar=false
 		//room_goto_next();
 	}
 	

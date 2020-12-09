@@ -13,3 +13,4 @@ if (!instance_exists(obj_textbox)) {
 	}
 	addClue("You talked to Omar! They're Iggy's best friend and roommate.", "Omar")
 }
+obj_textbox.audioOmar=true

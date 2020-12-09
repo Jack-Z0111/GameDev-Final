@@ -12,3 +12,6 @@ if (!instance_exists(obj_textbox)) {
 	
 	addClue("The victim couldn't have been strangled. Their neck is unharmed.", "Iggy")
 }
+instance_destroy(obj_dialogue_choice_15);
+instance_destroy(obj_dialogue_choice_14);
+clicked = true;

@@ -1,6 +1,6 @@
 //if obj_ch_carrie_s3.done && obj_ch_herby_s3.done && obj_ch_omar_s3.done
 //done=true
-
+if (room == rm_scene3) {
 if not global.s3_end{
 	if (instance_exists(obj_cm_sc3_omar)) {
 		omarCheck = instance_nearest(x,y,obj_cm_sc3_omar).done
@@ -17,4 +17,5 @@ if not global.s3_end{
 		}
 	}
 	
+}
 }

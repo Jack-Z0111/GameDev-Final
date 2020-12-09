@@ -37,7 +37,6 @@
   "instanceCreationOrder": [
     {"name":"inst_449AF107","path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"inst_7D88E547","path":"rooms/rm_scene1/rm_scene1.yy",},
-    {"name":"inst_2F94743B","path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"inst_28EE7F07","path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"inst_F41231D","path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"inst_1B21B5B1","path":"rooms/rm_scene1/rm_scene1.yy",},
@@ -47,6 +46,7 @@
     {"name":"inst_69EB0B4D","path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"inst_145507F2","path":"rooms/rm_scene1/rm_scene1.yy",},
     {"name":"inst_7F3055FB","path":"rooms/rm_scene1/rm_scene1.yy",},
+    {"name":"inst_2F94743B","path":"rooms/rm_scene1/rm_scene1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

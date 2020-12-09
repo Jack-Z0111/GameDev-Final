@@ -5,5 +5,5 @@
 msg = [
 ["Hold on, what did I just say?", "Detective", -1],
 ["What I meant to say was...", "Detective", -1],
-["Well, I found something at the crime scene that suggests the killer poisoned the victim through deception.", "Detective", -1]
+["I found something at the crime scene that suggests the killer poisoned the victim through deception.", "Detective", -1]
 ]

@@ -11,7 +11,7 @@ msg = [
 ["Then what about the rope?", "Omar", -1],
 ["I believe the killer used the rope", "Detective", -1]
 ]
-
+clicked = false;
 //DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
 //global.choice1 = obj_dialogue_choice_24 //escape
 //global.choice2 = obj_dialogue_choice_22 //misdirect //CORRECT CHOICE

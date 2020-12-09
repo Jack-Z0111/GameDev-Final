@@ -12,3 +12,6 @@ if (!instance_exists(obj_textbox)) {
 	
 	addClue("They passed of a nut-induced allergic reaction!", "Iggy")
 }
+instance_destroy(obj_dialogue_choice_21);
+instance_destroy(obj_dialogue_choice_20);
+clicked = true;

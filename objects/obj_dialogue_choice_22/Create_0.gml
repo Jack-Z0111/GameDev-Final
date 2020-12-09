@@ -23,7 +23,7 @@ msg = [
 ["and why would he have eaten them?", "Omar", -1],
 ["He ate them because", "Detective", -1]
 ]
-
+clicked = false;
 //DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
 //global.choice1 = obj_dialogue_choice_26 //force 
 //global.choice2 = obj_dialogue_choice_27 //wanted

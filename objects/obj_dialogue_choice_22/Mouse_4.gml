@@ -12,3 +12,6 @@ if (!instance_exists(obj_textbox)) {
 	addClue("They were framed with the rope!", "Carrie")
 	addClue("They were poisoned!", "Iggy")
 }
+instance_destroy(obj_dialogue_choice_24);
+instance_destroy(obj_dialogue_choice_23);
+clicked = true;

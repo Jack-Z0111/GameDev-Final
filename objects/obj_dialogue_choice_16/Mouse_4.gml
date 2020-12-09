@@ -12,3 +12,6 @@ if (!instance_exists(obj_textbox)) {
 	
 	addClue("The victim's tongue was swollen... strange.", "Iggy")
 }
+instance_destroy(obj_dialogue_choice_18);
+instance_destroy(obj_dialogue_choice_17);
+clicked = true;

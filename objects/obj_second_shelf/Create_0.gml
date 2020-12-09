@@ -1,2 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+//for cliking on the sehlf
+msg = [
+["A trusty house plant.", "Detective", -1]
+]

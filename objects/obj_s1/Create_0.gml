@@ -19,6 +19,7 @@ msg = [
 ["and one of his clients has been staying with us for the past few days.", "Omar", -1],
 ["She's right over there...", "Omar", -1]
 ]
+
 if (!instance_exists(obj_textbox)) {
 	
 	var _tb = instance_create_layer(0, 0, "Character", obj_textbox);

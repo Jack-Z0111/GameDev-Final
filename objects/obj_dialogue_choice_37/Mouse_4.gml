@@ -13,3 +13,6 @@ if (!instance_exists(obj_textbox)) {
 	addClue("The container's initial was 'H' for Herby!", "Physical Evidence")
 	addClue("They deny the poisoning!", "Herby")
 }
+instance_destroy(obj_dialogue_choice_38);
+instance_destroy(obj_dialogue_choice_39);
+clicked = true;

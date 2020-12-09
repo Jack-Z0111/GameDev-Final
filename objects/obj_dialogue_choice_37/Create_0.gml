@@ -24,7 +24,7 @@ msg = [
 ["Do you have any idea how hard it is to conceal the taste of nut products?", "Herby", -1],
 ["How would I have even done that?", "Herby", -1]
 ]
-
+clicked = false;
 //DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
 //global.choice1 = obj_dialogue_choice_42 //dying 
 //global.choice2 = obj_dialogue_choice_40 //hiding //CORRECT CHOICE

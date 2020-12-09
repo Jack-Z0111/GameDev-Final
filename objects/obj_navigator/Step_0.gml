@@ -5,6 +5,10 @@
 //}
 
 
+if keyboard_check_pressed(ord("R")){
+	game_restart()
+}
+
 s2_end = global.s2_checks[0] and global.s2_checks[1] and global.s2_checks[2] and global.s2_checks[3];
 
 switch(check)

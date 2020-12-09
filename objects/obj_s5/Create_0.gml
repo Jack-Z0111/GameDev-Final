@@ -27,10 +27,7 @@ msg = [
 ["But I have evidence to suggest that the rope was not used to strangle him.", "Detective", -1],
 ["What evidence is that?", "Omar", -1]
 ]
-//DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
-//global.choice1 = obj_dialogue_choice_46 //the note
-//global.choice2 = obj_dialogue_choice_5 //the body //CORRECT CHOICE
-//global.choice3 = obj_dialogue_choice_9 //the crime scene
+
 if (!instance_exists(obj_textbox)) {
 	
 	var _tb = instance_create_layer(0, 0, "Character", obj_textbox);

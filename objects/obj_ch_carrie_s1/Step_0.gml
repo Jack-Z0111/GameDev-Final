@@ -1,9 +1,12 @@
-with (obj_textbox) {
-	if (messageID == 3) {
-		if (mouse_check_button_pressed(mb_left)) {
-			global.s1_end = true;
-		}
-	} else {
-		global.s1_end = false;
+messageID = 0
+box = noone
+
+if instance_exists(obj_textbox){
+	box = instance_nearest(x,y, obj_textbox)
+	if (box.messageID >= 40) {
+		global.s1_condition = true;
+		global.s1_end = true;
 	}
 }
+
+

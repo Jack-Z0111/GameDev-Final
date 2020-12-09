@@ -14,6 +14,7 @@ if mouse_check_button_pressed(mb_left){ // same as above, just using the mouse a
 }
 
 
+show_debug_message(ds_list_size(global.pages))
 curr = ds_list_find_value(global.pages, curr_page) // find the curr page
 if _open{ //if the nb is open, show it
 	curr._visible = true

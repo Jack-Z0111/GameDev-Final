@@ -3,17 +3,19 @@
 
 //array of page names
 
+persistent = true;
+
 global.pages = ds_list_create()
 
-iggy = instance_create_layer(x,y, "Asset",obj_page)
+iggy = instance_create_layer(x,y, "Instance",obj_page)
 iggy.name = "Iggy"
-carrie = instance_create_layer(x,y, "Asset",obj_page)
+carrie = instance_create_layer(x,y, "Instance",obj_page)
 carrie.name = "Carrie"
-herbie = instance_create_layer(x,y, "Asset",obj_page)
+herbie = instance_create_layer(x,y, "Instance",obj_page)
 herbie.name = "Herbie"
-omar = instance_create_layer(x,y, "Asset",obj_page)
+omar = instance_create_layer(x,y, "Instance",obj_page)
 omar.name = "Omar"
-phys = instance_create_layer(x,y, "Asset",obj_page) //physical evidence
+phys = instance_create_layer(x,y, "Instance",obj_page) //physical evidence
 phys.name = "Physical Evidence"
 
 ds_list_add(global.pages, phys)

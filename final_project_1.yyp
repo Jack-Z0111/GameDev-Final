@@ -20,6 +20,7 @@
     {"id":{"name":"obj_dialogue_choice_32","path":"objects/obj_dialogue_choice_32/obj_dialogue_choice_32.yy",},"order":43,},
     {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},"order":6,},
     {"id":{"name":"spr_dialogue_choice_20","path":"sprites/spr_dialogue_choice_20/spr_dialogue_choice_20.yy",},"order":38,},
+    {"id":{"name":"clear_globvars","path":"scripts/clear_globvars/clear_globvars.yy",},"order":4,},
     {"id":{"name":"nbFont","path":"fonts/nbFont/nbFont.yy",},"order":1,},
     {"id":{"name":"spr_dialogue_choice_42","path":"sprites/spr_dialogue_choice_42/spr_dialogue_choice_42.yy",},"order":60,},
     {"id":{"name":"spr_dialogue_choice_32","path":"sprites/spr_dialogue_choice_32/spr_dialogue_choice_32.yy",},"order":50,},

@@ -1,5 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
+if instance_exists(obj_nb) {
+	if position_meeting(mouse_x, mouse_y, obj_nb) {
+		sprite_index = spr_nb_quick_ho;
+	} else {
+		sprite_index = spr_nb_quick;
+	}
+}
+
 
 if keyboard_check_pressed(ord("N")){
 	_open = not _open //allows for easy opening/closing of NB

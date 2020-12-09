@@ -12,3 +12,6 @@ if (!instance_exists(obj_textbox)) {
 	
 	addClue("There was a note saying 'I left a surprise for you in the den. You're Welcome!' in the trash.", "Physical Evidence")
 }
+instance_destroy(obj_dialogue_choice_29);
+instance_destroy(obj_dialogue_choice_30);
+clicked = true;

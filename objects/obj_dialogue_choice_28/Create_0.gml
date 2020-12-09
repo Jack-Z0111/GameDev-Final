@@ -12,7 +12,7 @@ msg = [
 ["What was the surprise?", "Carrie", -1],
 ["Well, there was only one other thing of interest found in the living room.", "Detective", -1]
 ]
-
+clicked = false;
 //DO NOT ERASE, TO BE USED FOR FLOATING CHOICES TO MANAGER
 //global.choice1 = obj_dialogue_choice_32 //trashcan
 //global.choice2 = obj_dialogue_choice_31 //tupperware //CORRECT CHOICE

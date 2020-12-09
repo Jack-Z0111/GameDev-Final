@@ -147,6 +147,7 @@
     {"id":{"name":"spr_rope_ho","path":"sprites/spr_rope_ho/spr_rope_ho.yy",},"order":80,},
     {"id":{"name":"spr_dialogue_choice_3","path":"sprites/spr_dialogue_choice_3/spr_dialogue_choice_3.yy",},"order":21,},
     {"id":{"name":"obj_ch_herby_s4","path":"objects/obj_ch_herby_s4/obj_ch_herby_s4.yy",},"order":64,},
+    {"id":{"name":"spr_vase","path":"sprites/spr_vase/spr_vase.yy",},"order":84,},
     {"id":{"name":"obj_dialogue_choice_20","path":"objects/obj_dialogue_choice_20/obj_dialogue_choice_20.yy",},"order":31,},
     {"id":{"name":"spr_carrie","path":"sprites/spr_carrie/spr_carrie.yy",},"order":2,},
     {"id":{"name":"spr_omar","path":"sprites/spr_omar/spr_omar.yy",},"order":12,},

@@ -57,3 +57,4 @@ msg = [
 ["Now then, on to the next case!", "Detective", -1]
 ]
 //THIS IS THE END OF THE GAME
+clicked = true;

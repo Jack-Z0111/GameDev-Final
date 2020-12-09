@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+
 if (!instance_exists(obj_textbox)) {
 	
 	var _tb = instance_create_layer(0, 0, "Character", obj_textbox);
@@ -11,5 +12,7 @@ if (!instance_exists(obj_textbox)) {
 		
 		ds_list_add(_list, _arr);
 	}
-	addClue("You talked to Omar! They're Iggy's best friend and roommate.", "Omar")
+	check = true;
+} else {
+	alarm[1] = 5
 }

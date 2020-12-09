@@ -1,6 +1,13 @@
 global.s1_end = false;
 global.s1_condition = false;
-global.s2_end = false;
+
+
+// lookedat container, garbage can, rope, and victim respectively
+global.s2_checks = [false, false, false, false]
+
+
+s2_end = false;
+global.s2_endTwo = false;
 
 //scenes
 enum scene
@@ -12,5 +19,6 @@ enum scene
 	solving
 }
 
-global.scene = scene.arrival;
+check = scene.investigation;
 	
+persistent = true

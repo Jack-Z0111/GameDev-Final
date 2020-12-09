@@ -32,3 +32,5 @@ if (!instance_exists(obj_textbox)) {
 	}
 
 }
+
+global.s1_end = true;

@@ -4,67 +4,47 @@
 //	room_goto(rm_scene2);
 //}
 
-switch(global.scene)
+
+s2_end = global.s2_checks[0] and global.s2_checks[1] and global.s2_checks[2] and global.s2_checks[3];
+
+switch(check)
 {
 	case scene.arrival:
 	
-	if (global.s1_end == false) {
-		room_goto(rm_scene1);
-	}
-	
-	else if (global.s1_end == true && global.s1_condition == true) {
-		global.scene = scene.investigation;
-	}
+		if (global.s1_end and global.s1_condition) {
+			check = scene.investigation;
+		}
 	
 	break;
-	
 	
 	case scene.investigation:
+
 	
-	if (global.s2_end == false) {
-		room_goto(rm_scene2);
-	}
+		if (room != rm_scene2) {
+			room_goto(rm_scene2);
+		}
+		
+		if (s2_end){
+			if(!instance_exists(obj_s2_end)){
+				instance_create_layer(x,y,"Instance", obj_s2_end)
+			}
+		}
+		
+		if (global.s2_endTwo){
+			check = scene.interrogation1
+		}
 	
 	break;
 	
-	// if obj_ast_garbagecan.s2_trash=true
-	//{
-	//	room_goto(room_s2_trash)
-	//}
+
 	
-	//else if obj_ast_victim.s2_victim=true
-	//{
-	//	room_goto(room_s2_victim)
-	//}
-	
-	//else if obj_ast_rope.s2_rope=true
-	//{
-	//	room_goto(room_s2_rope)
-	//}
-	
-	//else if obj_s2.done=true
-	//{
-	//	room_goto(room_s2_end)
-	//}
-	
-	//if obj_s2_end.done
-	//{
-	//global.scenes=scenes.interrogation1
-	//room_goto(room_s3)
-	//}
-	
-	//break;
-	
-	//case scenes.interrogation1:
-	//if obj_ch_carrie_s3.s3_carrie=true
-	//{
-	//	room_goto(room_s3_carrie)
-	//}
-	//if obj_ch_carrie_s3.s3_carrie=true
-	//{
-	//	room_goto(room_s3_carrie)
-	//}
-	
-	
+	case scene.interrogation1:
+		if (room != rm_scene3) {
+			room_goto(rm_scene3);
+		}
+		
+		
+		
+	break;
 	
 }

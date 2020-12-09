@@ -10,4 +10,6 @@ if (!instance_exists(obj_textbox)) {
 		ds_list_add(_list, _arr);
 	}
 }
-global.correct = true;
+instance_destroy(obj_dialogue_choice_11);
+instance_destroy(obj_dialogue_choice_12);
+clicked = true;

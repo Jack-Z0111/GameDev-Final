@@ -44,6 +44,7 @@
     {"id":{"name":"spr_dialogue_choice_46","path":"sprites/spr_dialogue_choice_46/spr_dialogue_choice_46.yy",},"order":64,},
     {"id":{"name":"spr_dialogue_choice_40","path":"sprites/spr_dialogue_choice_40/spr_dialogue_choice_40.yy",},"order":58,},
     {"id":{"name":"obj_dialogue_choice_29","path":"objects/obj_dialogue_choice_29/obj_dialogue_choice_29.yy",},"order":40,},
+    {"id":{"name":"spr_painting_3","path":"sprites/spr_painting_3/spr_painting_3.yy",},"order":92,},
     {"id":{"name":"obj_dialogue_choice_9","path":"objects/obj_dialogue_choice_9/obj_dialogue_choice_9.yy",},"order":20,},
     {"id":{"name":"obj_dialogue_choice_45","path":"objects/obj_dialogue_choice_45/obj_dialogue_choice_45.yy",},"order":56,},
     {"id":{"name":"obj_scene_roomshifter","path":"objects/obj_scene_roomshifter/obj_scene_roomshifter.yy",},"order":11,},

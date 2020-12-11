@@ -128,6 +128,7 @@
     {"id":{"name":"spr_dialogue_choice_29","path":"sprites/spr_dialogue_choice_29/spr_dialogue_choice_29.yy",},"order":47,},
     {"id":{"name":"spr_dialogue_choice_9","path":"sprites/spr_dialogue_choice_9/spr_dialogue_choice_9.yy",},"order":27,},
     {"id":{"name":"obj_s2","path":"objects/obj_s2/obj_s2.yy",},"order":59,},
+    {"id":{"name":"spr_rug","path":"sprites/spr_rug/spr_rug.yy",},"order":87,},
     {"id":{"name":"dialogueChosen","path":"scripts/dialogueChosen/dialogueChosen.yy",},"order":3,},
     {"id":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},"order":0,},
     {"id":{"name":"obj_ch_carrie_s1","path":"objects/obj_ch_carrie_s1/obj_ch_carrie_s1.yy",},"order":5,},

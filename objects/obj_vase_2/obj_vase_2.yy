@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_end_table",
-    "path": "sprites/spr_end_table/spr_end_table.yy",
+    "name": "spr_vase2",
+    "path": "sprites/spr_vase2/spr_vase2.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_end_table",
+  "name": "obj_vase_2",
   "tags": [],
   "resourceType": "GMObject",
 }

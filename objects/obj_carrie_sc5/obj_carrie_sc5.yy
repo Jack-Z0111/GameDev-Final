@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_calendar",
-    "path": "sprites/spr_calendar/spr_calendar.yy",
+    "name": "spr_carrie",
+    "path": "sprites/spr_carrie/spr_carrie.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,10 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_calendar","path":"objects/obj_calendar/obj_calendar.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_calendar","path":"objects/obj_calendar/obj_calendar.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_calendar",
+  "name": "obj_carrie_sc5",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -143,6 +143,7 @@
     {"id":{"name":"obj_ch_player","path":"objects/obj_ch_player/obj_ch_player.yy",},"order":8,},
     {"id":{"name":"spr_dialogue_choice_28","path":"sprites/spr_dialogue_choice_28/spr_dialogue_choice_28.yy",},"order":46,},
     {"id":{"name":"obj_ch_omar_s3","path":"objects/obj_ch_omar_s3/obj_ch_omar_s3.yy",},"order":7,},
+    {"id":{"name":"spr_telephone","path":"sprites/spr_telephone/spr_telephone.yy",},"order":86,},
     {"id":{"name":"obj_dialogue_choice_27","path":"objects/obj_dialogue_choice_27/obj_dialogue_choice_27.yy",},"order":38,},
     {"id":{"name":"obj_dialogue_choice_11","path":"objects/obj_dialogue_choice_11/obj_dialogue_choice_11.yy",},"order":22,},
     {"id":{"name":"spr_dialogue_choice_13","path":"sprites/spr_dialogue_choice_13/spr_dialogue_choice_13.yy",},"order":31,},

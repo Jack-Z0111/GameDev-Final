@@ -167,6 +167,7 @@
     {"id":{"name":"obj_dialogue_choice_20","path":"objects/obj_dialogue_choice_20/obj_dialogue_choice_20.yy",},"order":31,},
     {"id":{"name":"spr_carrie","path":"sprites/spr_carrie/spr_carrie.yy",},"order":2,},
     {"id":{"name":"spr_omar","path":"sprites/spr_omar/spr_omar.yy",},"order":12,},
+    {"id":{"name":"spr_sc5","path":"sprites/spr_sc5/spr_sc5.yy",},"order":94,},
     {"id":{"name":"spr_dialogue_choice_47","path":"sprites/spr_dialogue_choice_47/spr_dialogue_choice_47.yy",},"order":77,},
     {"id":{"name":"spr_painting","path":"sprites/spr_painting/spr_painting.yy",},"order":67,},
     {"id":{"name":"obj_dialogue_choice_23","path":"objects/obj_dialogue_choice_23/obj_dialogue_choice_23.yy",},"order":34,},

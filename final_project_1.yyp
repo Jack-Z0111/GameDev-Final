@@ -110,6 +110,7 @@
     {"id":{"name":"obj_dialogue_choice_25","path":"objects/obj_dialogue_choice_25/obj_dialogue_choice_25.yy",},"order":36,},
     {"id":{"name":"rm_scene5","path":"rooms/rm_scene5/rm_scene5.yy",},"order":9,},
     {"id":{"name":"obj_navigator","path":"objects/obj_navigator/obj_navigator.yy",},"order":79,},
+    {"id":{"name":"spr_pillow","path":"sprites/spr_pillow/spr_pillow.yy",},"order":89,},
     {"id":{"name":"obj_dialogue_choice_36","path":"objects/obj_dialogue_choice_36/obj_dialogue_choice_36.yy",},"order":47,},
     {"id":{"name":"spr_carrie_talking","path":"sprites/spr_carrie_talking/spr_carrie_talking.yy",},"order":10,},
     {"id":{"name":"obj_dialogue_choice_17","path":"objects/obj_dialogue_choice_17/obj_dialogue_choice_17.yy",},"order":28,},

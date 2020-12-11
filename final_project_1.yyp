@@ -183,6 +183,7 @@
     {"id":{"name":"obj_cm_sc3_herby","path":"objects/obj_cm_sc3_herby/obj_cm_sc3_herby.yy",},"order":90,},
     {"id":{"name":"spr_dialogue_choice_4","path":"sprites/spr_dialogue_choice_4/spr_dialogue_choice_4.yy",},"order":22,},
     {"id":{"name":"obj_painting","path":"objects/obj_painting/obj_painting.yy",},"order":74,},
+    {"id":{"name":"obj_pillow","path":"objects/obj_pillow/obj_pillow.yy",},"order":99,},
     {"id":{"name":"obj_third_shelf","path":"objects/obj_third_shelf/obj_third_shelf.yy",},"order":98,},
     {"id":{"name":"obj_calendar","path":"objects/obj_calendar/obj_calendar.yy",},"order":75,},
     {"id":{"name":"spr_living_room_background","path":"sprites/spr_living_room_background/spr_living_room_background.yy",},"order":16,},

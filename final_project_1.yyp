@@ -186,6 +186,7 @@
     {"id":{"name":"spr_dialogue_choice_36","path":"sprites/spr_dialogue_choice_36/spr_dialogue_choice_36.yy",},"order":54,},
     {"id":{"name":"obj_dialogue_choice_1","path":"objects/obj_dialogue_choice_1/obj_dialogue_choice_1.yy",},"order":12,},
     {"id":{"name":"obj_dialogue_choice_33","path":"objects/obj_dialogue_choice_33/obj_dialogue_choice_33.yy",},"order":44,},
+    {"id":{"name":"obj_lamp","path":"objects/obj_lamp/obj_lamp.yy",},"order":95,},
     {"id":{"name":"obj_ast_container","path":"objects/obj_ast_container/obj_ast_container.yy",},"order":9,},
     {"id":{"name":"spr_nb_quick_ho","path":"sprites/spr_nb_quick_ho/spr_nb_quick_ho.yy",},"order":81,},
     {"id":{"name":"spr_dialogue_choice_5","path":"sprites/spr_dialogue_choice_5/spr_dialogue_choice_5.yy",},"order":23,},

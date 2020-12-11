@@ -120,6 +120,7 @@
     {"id":{"name":"spr_table","path":"sprites/spr_table/spr_table.yy",},"order":73,},
     {"id":{"name":"obj_dialogue_choice_41","path":"objects/obj_dialogue_choice_41/obj_dialogue_choice_41.yy",},"order":52,},
     {"id":{"name":"obj_dialogue_choice_42","path":"objects/obj_dialogue_choice_42/obj_dialogue_choice_42.yy",},"order":53,},
+    {"id":{"name":"spr_lamp","path":"sprites/spr_lamp/spr_lamp.yy",},"order":85,},
     {"id":{"name":"spr_dialogue_choice_16","path":"sprites/spr_dialogue_choice_16/spr_dialogue_choice_16.yy",},"order":34,},
     {"id":{"name":"spr_iggybody","path":"sprites/spr_iggybody/spr_iggybody.yy",},"order":76,},
     {"id":{"name":"obj_ast_victim","path":"objects/obj_ast_victim/obj_ast_victim.yy",},"order":69,},

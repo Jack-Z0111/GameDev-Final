@@ -60,6 +60,7 @@
     {"id":{"name":"spr_rope","path":"sprites/spr_rope/spr_rope.yy",},"order":18,},
     {"id":{"name":"obj_dialogue_choice_18","path":"objects/obj_dialogue_choice_18/obj_dialogue_choice_18.yy",},"order":29,},
     {"id":{"name":"spr_dialogue_choice_22","path":"sprites/spr_dialogue_choice_22/spr_dialogue_choice_22.yy",},"order":40,},
+    {"id":{"name":"obj_telephone","path":"objects/obj_telephone/obj_telephone.yy",},"order":97,},
     {"id":{"name":"obj_dialogue_choice_6","path":"objects/obj_dialogue_choice_6/obj_dialogue_choice_6.yy",},"order":17,},
     {"id":{"name":"spr_dialogue_choice_6","path":"sprites/spr_dialogue_choice_6/spr_dialogue_choice_6.yy",},"order":24,},
     {"id":{"name":"spr_dialogue_choice_45","path":"sprites/spr_dialogue_choice_45/spr_dialogue_choice_45.yy",},"order":63,},

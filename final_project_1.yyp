@@ -97,6 +97,8 @@
     {"id":{"name":"spr_dialogue_choice_19","path":"sprites/spr_dialogue_choice_19/spr_dialogue_choice_19.yy",},"order":37,},
     {"id":{"name":"rm_scene1","path":"rooms/rm_scene1/rm_scene1.yy",},"order":6,},
     {"id":{"name":"spr_dialogue_choice_7","path":"sprites/spr_dialogue_choice_7/spr_dialogue_choice_7.yy",},"order":25,},
+    {"id":{"name":"spr_painting_livingroom2","path":"sprites/spr_painting_livingroom2/spr_painting_livingroom2.yy",},"order":91,},
+    {"id":{"name":"obj_mirror","path":"objects/obj_mirror/obj_mirror.yy",},"order":101,},
     {"id":{"name":"font0","path":"fonts/font0/font0.yy",},"order":0,},
     {"id":{"name":"spr_dialogue_choice_37","path":"sprites/spr_dialogue_choice_37/spr_dialogue_choice_37.yy",},"order":55,},
     {"id":{"name":"rm_scene2","path":"rooms/rm_scene2/rm_scene2.yy",},"order":7,},

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_painting",
-    "path": "sprites/spr_painting/spr_painting.yy",
+    "name": "spr_painting_2",
+    "path": "sprites/spr_painting_2/spr_painting_2.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_painting",
+  "name": "obj_painting_2",
   "tags": [],
   "resourceType": "GMObject",
 }

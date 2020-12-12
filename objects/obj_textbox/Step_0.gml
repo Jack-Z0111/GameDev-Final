@@ -3,7 +3,7 @@ var _arr = messages[| messageID]; //get array for message
 
 var _text = _arr[MSG.TEXT]; //get text from array
 var _name = _arr[MSG.NAME];
-var timer=30
+
 if  _name == "Detective"
 {
 	audioDetective=true

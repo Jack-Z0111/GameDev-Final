@@ -24,8 +24,9 @@ _drawY += string_height(_name) + padding //where the name will be drawn
 //get maximum width for text
 var _maxW = width - (_drawX + 100 + padding);
 
+draw_set_font(font1);
 //draw text
-draw_text_ext(_drawX + 60, _drawY + 20, messageText, -1, _maxW); //wrap text around
+draw_text_ext(_drawX + 200, _drawY, messageText, -1, _maxW); //wrap text around
 
 //reset
 draw_set_color(c_white);

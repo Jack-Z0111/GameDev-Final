@@ -26,7 +26,7 @@ width = _guiW; //width of box
 
 //position on screen
 x = 0;
-y = _guiH - height;
+y = _guiH - height + 60;
 
 //other properties
 padding = 20; //distance from sides

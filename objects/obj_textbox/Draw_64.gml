@@ -30,3 +30,36 @@ draw_text_ext(_drawX + 200, _drawY, messageText, -1, _maxW); //wrap text around
 
 //reset
 draw_set_color(c_white);
+
+
+if _name == "Detective" {
+	
+	_image = spr_player_portrait;
+	
+}
+
+if _name == "Herby" {
+	
+	_image = spr_herby_portrait;
+	
+}
+
+if _name == "Carrie" {
+	
+	_image = spr_carrie_portrait;
+	
+}
+
+if _name == "Omar" {
+	
+	_image = spr_omar_portrait;
+	
+}
+
+
+
+if (sprite_exists(_image)) {
+
+	draw_sprite(_image, 0,-20, 420);
+	
+}

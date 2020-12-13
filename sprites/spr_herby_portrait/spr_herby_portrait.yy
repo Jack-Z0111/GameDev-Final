@@ -7,9 +7,9 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 78,
-  "bbox_right": 227,
-  "bbox_top": 152,
+  "bbox_left": 86,
+  "bbox_right": 235,
+  "bbox_top": 164,
   "bbox_bottom": 309,
   "HTile": false,
   "VTile": false,
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"358b367b-126d-4ec7-b186-855b22d38e75","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"358b367b-126d-4ec7-b186-855b22d38e75","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},"LayerId":{"name":"9c0b7dc7-4c68-4791-bb8a-405329ef8784","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_herby_portrait","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},"resourceVersion":"1.0","name":"358b367b-126d-4ec7-b186-855b22d38e75","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bddf82af-b20b-43ee-9cb6-3b1899e52529","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bddf82af-b20b-43ee-9cb6-3b1899e52529","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},"LayerId":{"name":"9c0b7dc7-4c68-4791-bb8a-405329ef8784","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_herby_portrait","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},"resourceVersion":"1.0","name":"bddf82af-b20b-43ee-9cb6-3b1899e52529","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_herby_portrait","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"87ce2f0a-fe1c-4fbf-add3-cd9c9bba7cc4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"358b367b-126d-4ec7-b186-855b22d38e75","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"192c9939-0751-4951-9c6a-896ee9e1d0e2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bddf82af-b20b-43ee-9cb6-3b1899e52529","path":"sprites/spr_herby_portrait/spr_herby_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,

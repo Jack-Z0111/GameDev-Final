@@ -27,21 +27,37 @@
     {"compositeImage":{"FrameId":{"name":"4ee0e361-4849-467c-b1c7-0553a2deb9db","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"4ee0e361-4849-467c-b1c7-0553a2deb9db","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"LayerId":{"name":"6f1cba41-3cb6-46c7-811f-31eb2e7f7243","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_omar_portrait","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","name":"4ee0e361-4849-467c-b1c7-0553a2deb9db","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2ab059c4-fc4c-486f-914c-fbeda29e7651","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2ab059c4-fc4c-486f-914c-fbeda29e7651","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"LayerId":{"name":"6f1cba41-3cb6-46c7-811f-31eb2e7f7243","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_omar_portrait","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","name":"2ab059c4-fc4c-486f-914c-fbeda29e7651","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b0159cd9-b82b-4643-8c9d-34a8c6619c0d","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b0159cd9-b82b-4643-8c9d-34a8c6619c0d","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"LayerId":{"name":"6f1cba41-3cb6-46c7-811f-31eb2e7f7243","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_omar_portrait","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","name":"b0159cd9-b82b-4643-8c9d-34a8c6619c0d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"375eae8e-0000-4310-ae07-69c66da8a579","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"375eae8e-0000-4310-ae07-69c66da8a579","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"LayerId":{"name":"6f1cba41-3cb6-46c7-811f-31eb2e7f7243","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_omar_portrait","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","name":"375eae8e-0000-4310-ae07-69c66da8a579","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"035b6b73-3fb0-466a-903c-82210b4dba94","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"035b6b73-3fb0-466a-903c-82210b4dba94","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"LayerId":{"name":"6f1cba41-3cb6-46c7-811f-31eb2e7f7243","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_omar_portrait","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","name":"035b6b73-3fb0-466a-903c-82210b4dba94","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_omar_portrait","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 8.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 5.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"b79349b3-dc2f-4412-ace2-b78445d69fdc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4ee0e361-4849-467c-b1c7-0553a2deb9db","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4c8170bc-a8a9-4449-808b-3109582abc4b","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2ab059c4-fc4c-486f-914c-fbeda29e7651","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8e84dbdd-469e-4da3-be8d-2491200ba1b3","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b0159cd9-b82b-4643-8c9d-34a8c6619c0d","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ab84a1da-4933-48db-b18e-dc8c12d2df00","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"375eae8e-0000-4310-ae07-69c66da8a579","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"abf31006-f174-47d2-b20c-3f2507c4ddfb","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"035b6b73-3fb0-466a-903c-82210b4dba94","path":"sprites/spr_omar_portrait/spr_omar_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,

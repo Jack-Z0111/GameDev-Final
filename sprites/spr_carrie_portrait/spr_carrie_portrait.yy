@@ -27,21 +27,37 @@
     {"compositeImage":{"FrameId":{"name":"e88b3743-6ae1-4550-86a0-02b4456aed02","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"e88b3743-6ae1-4550-86a0-02b4456aed02","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"LayerId":{"name":"56fd66d4-569a-4cb3-b54b-160652b6c361","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_carrie_portrait","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","name":"e88b3743-6ae1-4550-86a0-02b4456aed02","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f966d511-53ed-4d92-b72d-48440a988523","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f966d511-53ed-4d92-b72d-48440a988523","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"LayerId":{"name":"56fd66d4-569a-4cb3-b54b-160652b6c361","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_carrie_portrait","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","name":"f966d511-53ed-4d92-b72d-48440a988523","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1753e6b7-b415-4c25-97dc-56a9f52046f2","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1753e6b7-b415-4c25-97dc-56a9f52046f2","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"LayerId":{"name":"56fd66d4-569a-4cb3-b54b-160652b6c361","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_carrie_portrait","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","name":"1753e6b7-b415-4c25-97dc-56a9f52046f2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"17c72603-f03c-4441-8c83-5d07b1c5d9b8","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"17c72603-f03c-4441-8c83-5d07b1c5d9b8","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"LayerId":{"name":"56fd66d4-569a-4cb3-b54b-160652b6c361","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_carrie_portrait","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","name":"17c72603-f03c-4441-8c83-5d07b1c5d9b8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c9756c33-6e7b-4524-8dec-6dc00e725d74","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c9756c33-6e7b-4524-8dec-6dc00e725d74","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"LayerId":{"name":"56fd66d4-569a-4cb3-b54b-160652b6c361","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_carrie_portrait","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","name":"c9756c33-6e7b-4524-8dec-6dc00e725d74","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_carrie_portrait","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 8.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 5.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"62e9a434-8e54-47a0-bd47-f7f27c0ab486","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e88b3743-6ae1-4550-86a0-02b4456aed02","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"58852b0e-a02e-48e5-8625-e9116935a99e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f966d511-53ed-4d92-b72d-48440a988523","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e32f34b0-b3a6-432b-af3a-0059f14a818e","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1753e6b7-b415-4c25-97dc-56a9f52046f2","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7f60700f-1e0c-4f00-96df-ac96c14e173a","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"17c72603-f03c-4441-8c83-5d07b1c5d9b8","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a5c6c739-a7e3-4666-aeef-22bdb40c8b75","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c9756c33-6e7b-4524-8dec-6dc00e725d74","path":"sprites/spr_carrie_portrait/spr_carrie_portrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,

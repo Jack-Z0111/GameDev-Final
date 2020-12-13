@@ -24,7 +24,3 @@ if (!instance_exists(obj_textbox)) {
 
 
 
-if (instance_exists(obj_textbox)){
-	box = instance_nearest(x,y,obj_textbox)
-	box.audioHerby = true
-}

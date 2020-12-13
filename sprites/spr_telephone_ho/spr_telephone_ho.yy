@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
+  "bbox_left": 1,
   "bbox_right": 74,
-  "bbox_top": 6,
-  "bbox_bottom": 63,
+  "bbox_top": 4,
+  "bbox_bottom": 65,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"0a30dc7c-bd1c-4d5d-b023-57a5eb4b03ee","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0a30dc7c-bd1c-4d5d-b023-57a5eb4b03ee","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},"LayerId":{"name":"9f78b1a1-8c3c-49b4-8c6e-01e78916d918","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_telephone_ho","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},"resourceVersion":"1.0","name":"0a30dc7c-bd1c-4d5d-b023-57a5eb4b03ee","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"aa37ee5c-72db-4109-b08a-fe985776855e","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"aa37ee5c-72db-4109-b08a-fe985776855e","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},"LayerId":{"name":"64cc1eda-938f-470c-85ae-e39f116a6403","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_telephone_ho","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},"resourceVersion":"1.0","name":"aa37ee5c-72db-4109-b08a-fe985776855e","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_telephone_ho","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"4fb55ec9-89d0-4330-8700-660e9bf80873","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0a30dc7c-bd1c-4d5d-b023-57a5eb4b03ee","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4463287b-d7e3-44f9-a076-8d7e0ac88a34","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aa37ee5c-72db-4109-b08a-fe985776855e","path":"sprites/spr_telephone_ho/spr_telephone_ho.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9f78b1a1-8c3c-49b4-8c6e-01e78916d918","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"64cc1eda-938f-470c-85ae-e39f116a6403","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",

@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 29,
-  "bbox_right": 170,
-  "bbox_top": 11,
-  "bbox_bottom": 195,
+  "bbox_left": 25,
+  "bbox_right": 174,
+  "bbox_top": 7,
+  "bbox_bottom": 199,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"fc406ed1-9980-4d16-a60b-11029778095b","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fc406ed1-9980-4d16-a60b-11029778095b","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},"LayerId":{"name":"ad68dc05-c06b-49ad-aa9e-ea85cc95d104","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_painting_livingroom_ho","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},"resourceVersion":"1.0","name":"fc406ed1-9980-4d16-a60b-11029778095b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"aa97e534-15b9-4417-b288-f1dc1ebbb499","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"aa97e534-15b9-4417-b288-f1dc1ebbb499","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},"LayerId":{"name":"90c30ba6-0a54-44e8-9721-b301e548ea33","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_painting_livingroom_ho","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},"resourceVersion":"1.0","name":"aa97e534-15b9-4417-b288-f1dc1ebbb499","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_painting_livingroom_ho","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"1fd9c63b-5c62-403f-aedf-527d3fbe0617","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fc406ed1-9980-4d16-a60b-11029778095b","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b9672e67-02d3-4fea-88af-3bd8350c31af","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aa97e534-15b9-4417-b288-f1dc1ebbb499","path":"sprites/spr_painting_livingroom_ho/spr_painting_livingroom_ho.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ad68dc05-c06b-49ad-aa9e-ea85cc95d104","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"90c30ba6-0a54-44e8-9721-b301e548ea33","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",

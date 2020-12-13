@@ -6,9 +6,9 @@
 global.chosenOne = noone
 
 
-baseOne = obj_dialogue_choice_4 //about iggy
-baseTwo = obj_dialogue_choice_49 //about carrie
-baseThree = obj_dialogue_choice_6 //the note
+baseOne = obj_dialogue_choice_4 //about omar
+baseTwo = obj_dialogue_choice_2 //about herby
+baseThree = obj_dialogue_choice_6 //the rope
 
 made = false
 

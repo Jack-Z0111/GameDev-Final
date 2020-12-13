@@ -22,4 +22,9 @@ if (!instance_exists(obj_textbox)) {
 	}
 }
 
-obj_textbox.audioHerby=true
+
+
+if (instance_exists(obj_textbox)){
+	box = instance_nearest(x,y,obj_textbox)
+	box.audioHerby = true
+}

@@ -22,4 +22,10 @@ if (!instance_exists(obj_textbox)) {
 		manager.alarm[0]=5
 	}
 }
-obj_textbox.audioOmar=true
+
+
+
+if (instance_exists(obj_textbox)){
+	box = instance_nearest(x,y,obj_textbox)
+	box.audioOmar = true
+}

@@ -32,7 +32,7 @@ switch(check)
 		
 		if (s2_end){
 			if(!instance_exists(obj_s2_end)){
-				instance_create_layer(x,y,"Instance", obj_s2_end)
+				instance_create_layer(x,y,"Instances", obj_s2_end)
 			}
 		}
 		
@@ -65,6 +65,13 @@ switch(check)
 
 		
 		
+	break;
+	
+	case scene.solving:
+		if (room != rm_scene5){
+			room_goto(rm_scene5)
+		}
+	
 	break;
 	
 }

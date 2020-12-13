@@ -14,4 +14,9 @@ if (!instance_exists(obj_textbox)) {
 	addClue("You talked to Herby! They're Iggy's neighbor who's taking it pretty hard.", "Herby")
 }
 
-obj_textbox.audioHerby=true
+
+
+if (instance_exists(obj_textbox)){
+	box = instance_nearest(x,y,obj_textbox)
+	box.audioHerby = true
+}

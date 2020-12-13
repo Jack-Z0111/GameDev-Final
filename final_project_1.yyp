@@ -213,6 +213,7 @@
     {"id":{"name":"obj_couch","path":"objects/obj_couch/obj_couch.yy",},"order":85,},
     {"id":{"name":"spr_vase2","path":"sprites/spr_vase2/spr_vase2.yy",},"order":93,},
     {"id":{"name":"obj_endtable2","path":"objects/obj_endtable2/obj_endtable2.yy",},"order":106,},
+    {"id":{"name":"obj_cheat","path":"objects/obj_cheat/obj_cheat.yy",},"order":107,},
     {"id":{"name":"obj_dialogue_choice_4","path":"objects/obj_dialogue_choice_4/obj_dialogue_choice_4.yy",},"order":15,},
     {"id":{"name":"obj_s2_end","path":"objects/obj_s2_end/obj_s2_end.yy",},"order":60,},
     {"id":{"name":"spr_bookshelf_ho","path":"sprites/spr_bookshelf_ho/spr_bookshelf_ho.yy",},"order":108,},

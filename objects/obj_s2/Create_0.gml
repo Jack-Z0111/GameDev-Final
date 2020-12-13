@@ -19,7 +19,3 @@ if (!instance_exists(obj_textbox)) {
 	}
 }
 
-if (!instance_exists(obj_textbox)) {
-	
-	
-}

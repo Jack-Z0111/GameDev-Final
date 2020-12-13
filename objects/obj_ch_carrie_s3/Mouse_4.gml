@@ -24,4 +24,7 @@ if not clicked{
 	}
 }
 
-obj_textbox.audioCarrie=true
+if (instance_exists(obj_textbox)){
+	box = instance_nearest(x,y,obj_textbox)
+	box.audioCarrie = true
+}

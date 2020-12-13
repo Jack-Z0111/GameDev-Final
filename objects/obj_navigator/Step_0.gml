@@ -11,6 +11,8 @@ if keyboard_check_pressed(ord("R")){
 
 s2_end = global.s2_checks[0] and global.s2_checks[1] and global.s2_checks[2] and global.s2_checks[3];
 
+
+
 switch(check)
 {
 	case scene.arrival:
@@ -44,6 +46,7 @@ switch(check)
 	
 	case scene.interrogation1:
 		if (room != rm_scene3) {
+			show_debug_message("Here")
 			room_goto(rm_scene3);
 		}
 		

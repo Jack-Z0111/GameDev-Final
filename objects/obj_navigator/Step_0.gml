@@ -46,11 +46,10 @@ switch(check)
 	
 	case scene.interrogation1:
 		if (room != rm_scene3) {
-			show_debug_message("Here")
 			room_goto(rm_scene3);
 		}
 		
-		if global.s3_end{
+		if global.s3_end and !instance_exists(obj_textbox){
 			check = scene.interrogation2
 		}
 		

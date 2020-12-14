@@ -21,6 +21,6 @@ enum scene
 	solving
 }
 
-check = scene.arrival;
+check = scene.interrogation1;
 	
 persistent = true

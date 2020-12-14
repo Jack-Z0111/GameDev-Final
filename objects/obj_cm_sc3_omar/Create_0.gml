@@ -8,7 +8,7 @@ global.chosenOne = noone
 
 baseOne = obj_dialogue_choice_2 //about omar
 baseTwo = obj_dialogue_choice_3 //about herby
-baseThree = obj_dialogue_choice_7 //the rope
+baseThree = obj_dialogue_choice_7 //the tupperware
 
 made = false
 

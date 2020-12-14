@@ -3,7 +3,8 @@
 
 
 
-choiceOne = instance_create_layer(room_width/4, room_height/2, "Instances", baseOne)
-choiceTwo = instance_create_layer(2 * room_width/4, room_height/2, "Instances", baseTwo)
-choiceThree = instance_create_layer(3 * room_width/4, room_height/2, "Instances", baseThree)
+choiceOne = instance_create_layer(room_width/2 - 300, 350, "Instances", baseOne)
+choiceTwo = instance_create_layer(room_width/2 - 50, 350, "Instances", baseTwo)
+choiceThree = instance_create_layer(room_width/2 + 200, 350, "Instances", baseThree)
+
 made = true;

@@ -12,6 +12,8 @@ if (!instance_exists(obj_textbox)) {
 		ds_list_add(_list, _arr);
 	}
 	addClue("You talked to Herby! They're Iggy's neighbor who's taking it pretty hard.", "Herby")
+	
+	global.count += 1;
 }
 
 

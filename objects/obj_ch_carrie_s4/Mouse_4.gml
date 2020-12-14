@@ -14,6 +14,7 @@ if (!instance_exists(obj_textbox)) {
 	
 	addClue("You talked to Carrie! They're a sailor/pirate who claims innocence.", "Carrie")
 	
+	global.count += 1;
 }
 
 

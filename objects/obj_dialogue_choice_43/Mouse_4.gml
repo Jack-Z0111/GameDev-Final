@@ -8,6 +8,8 @@ if (!instance_exists(obj_textbox)) {
 		var _arr = msg[i];
 		
 		ds_list_add(_list, _arr);
+		
+		global.count += 1;
 	}
 }
 instance_destroy(obj_dialogue_choice_44);

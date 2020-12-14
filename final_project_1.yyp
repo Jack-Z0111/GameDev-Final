@@ -151,6 +151,7 @@
     {"id":{"name":"spr_iggybody","path":"sprites/spr_iggybody/spr_iggybody.yy",},"order":76,},
     {"id":{"name":"obj_ast_victim","path":"objects/obj_ast_victim/obj_ast_victim.yy",},"order":69,},
     {"id":{"name":"spr_garbagecan_ho","path":"sprites/spr_garbagecan_ho/spr_garbagecan_ho.yy",},"order":82,},
+    {"id":{"name":"spr_roomend","path":"sprites/spr_roomend/spr_roomend.yy",},"order":124,},
     {"id":{"name":"obj_omar_sc5","path":"objects/obj_omar_sc5/obj_omar_sc5.yy",},"order":104,},
     {"id":{"name":"spr_dialogue_choice_29","path":"sprites/spr_dialogue_choice_29/spr_dialogue_choice_29.yy",},"order":47,},
     {"id":{"name":"spr_dialogue_choice_9","path":"sprites/spr_dialogue_choice_9/spr_dialogue_choice_9.yy",},"order":27,},
@@ -175,6 +176,7 @@
     {"id":{"name":"spr_table_ho","path":"sprites/spr_table_ho/spr_table_ho.yy",},"order":109,},
     {"id":{"name":"obj_ch_omar_s3","path":"objects/obj_ch_omar_s3/obj_ch_omar_s3.yy",},"order":7,},
     {"id":{"name":"spr_telephone","path":"sprites/spr_telephone/spr_telephone.yy",},"order":86,},
+    {"id":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},"order":10,},
     {"id":{"name":"obj_dialogue_choice_27","path":"objects/obj_dialogue_choice_27/obj_dialogue_choice_27.yy",},"order":38,},
     {"id":{"name":"obj_dialogue_choice_11","path":"objects/obj_dialogue_choice_11/obj_dialogue_choice_11.yy",},"order":22,},
     {"id":{"name":"spr_dialogue_choice_13","path":"sprites/spr_dialogue_choice_13/spr_dialogue_choice_13.yy",},"order":31,},
@@ -273,6 +275,7 @@
     {"roomId":{"name":"rm_scene4","path":"rooms/rm_scene4/rm_scene4.yy",},},
     {"roomId":{"name":"rm_scene5","path":"rooms/rm_scene5/rm_scene5.yy",},},
     {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
+    {"roomId":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
